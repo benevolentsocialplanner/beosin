@@ -1,0 +1,2770 @@
+{
+  "Schedule demo": {
+    "zh": "報價申請",
+    "ko": "견적 요청"
+  },
+  "Home": {
+    "zh": "首頁",
+    "ko": "비밀"
+  },
+  "Securing a more transparent blockchain finance ecosystem": {
+    "zh": "首頁",
+    "ko": "비밀"
+  },
+  "Forgot your password": {
+    "zh-cn": "忘记密码",
+    "ko": "비밀번호를 잊어버렸나요",
+    "zh": "忘記密碼"
+  },
+  "Account": {
+    "zh-cn": "账户",
+    "ko": "계정",
+    "zh": "帳戶"
+  },
+  "Password": {
+    "zh-cn": "密码",
+    "ko": "비밀번호",
+    "zh": "密碼"
+  },
+  "Please enter the code we sent to your email": {
+    "zh-cn": "请输入我们发送给您邮件中的验证码",
+    "ko": "이메일로 보낸 코드를 입력해주세요",
+    "zh": "請輸入我們發送給您郵件中的驗證碼"
+  },
+  "Send Code": {
+    "zh-cn": "发送验证码",
+    "ko": "코드 보내기",
+    "zh": "發送驗證碼"
+  },
+  "Confirm": {
+    "zh-cn": "确认",
+    "ko": "확인",
+    "zh": "確認"
+  },
+  "Login": {
+    "zh-cn": "登录",
+    "ko": "로그인",
+    "zh": "登錄"
+  },
+  "Beosin and its partners use cookies during your navigation on this site to ensure proper functioning of the website, measure its audience and performance. By remaining on this website, you consent to our use of cookies.": {
+    "zh-cn": "Beosin及其合作伙伴在您浏览本网站期间使用 cookies 来确保网站正常运行、衡量访客和性能。继续留在本网站即表示您同意我们使用 cookies。",
+    "ko": "Beosin과 파트너는 이 웹사이트에서 쿠키를 사용하여 웹사이트의 정상 작동을 보장하고, 사용량을 측정하고 성능을 분석합니다. 이 웹사이트에 머물면서, 쿠키 사용에 동의하게 됩니다.",
+    "zh": "Beosin及其合作夥伴在您流覽本網站期間使用 cookies 來確保網站正常運行、衡量訪客和性能。繼續留在本網站即表示您同意我們使用 cookies。"
+  },
+  "I Accept": {
+    "zh-cn": "我接受",
+    "ko": "동의함",
+    "zh": "我接受"
+  },
+  "Register Your Account": {
+    "zh-cn": "注册账户",
+    "ko": "계정 등록",
+    "zh": "註冊帳戶"
+  },
+  "Register": {
+    "zh-cn": "注册",
+    "ko": "등록",
+    "zh": "註冊"
+  },
+  "Search for features, resources...": {
+    "zh-cn": "搜索专题，资源...",
+    "ko": "기능, 리소스 검색...",
+    "zh": "搜索專題，資源..."
+  },
+  "Request a Quote": {
+    "zh-cn": "报价申请",
+    "ko": "견적 요청",
+    "zh": "報價申請"
+  },
+  "Audit reports or resources": {
+    "zh-cn": "审计报告或资源",
+    "ko": "감사 보고서 또는 리소스",
+    "zh": "審計報告或資源"
+  },
+  "View Public Reports": {
+    "zh-cn": "查看公开的报告",
+    "ko": "공개 보고서 보기",
+    "zh": "查看公開的報告"
+  },
+  "Project Name": {
+    "zh-cn": "项目名",
+    "ko": "프로젝트 이름",
+    "zh": "專案名"
+  },
+  "Date": {
+    "zh-cn": "日期",
+    "ko": "날짜",
+    "zh": "日期"
+  },
+  "View": {
+    "zh-cn": "查看",
+    "ko": "보기",
+    "zh": "查看"
+  },
+  "Stay up-to-date on our latest offerings, tools, and the world of blockchain security.": {
+    "zh-cn": "随时了解我们最新的产品、工具和区块链安全",
+    "ko": "블록체인 보안 세계의 최신 제공품, 도구 및 정보에 대해 최신 정보를 받으세요.",
+    "zh": "隨時瞭解我們最新的產品、工具和區塊鏈安全"
+  },
+  "Resources": {
+    "zh-cn": "资源",
+    "ko": "자원",
+    "zh": "資源"
+  },
+  "Academy": {
+    "zh-cn": "学院",
+    "ko": "교육",
+    "zh": "學院"
+  },
+  "Research Report": {
+    "zh-cn": "研究报告",
+    "ko": "연구 보고서",
+    "zh": "研究報告"
+  },
+  "Security Incident": {
+    "zh-cn": "安全事件",
+    "ko": "보안 사고",
+    "zh": "安全事件"
+  },
+  "Partnership Announcement": {
+    "zh-cn": "合作公告",
+    "ko": "파트너십 발표",
+    "zh": "合作公告"
+  },
+  "Event Update": {
+    "zh-cn": "活动更新",
+    "ko": "이벤트 업데이트",
+    "zh": "活動更新"
+  },
+  "Product & Service": {
+    "zh-cn": "产品及服务",
+    "ko": "제품 및 서비스",
+    "zh": "產品及服務"
+  },
+  "EagleEye": {
+    "zh-cn": "EagleEye",
+    "ko": "EagleEye",
+    "zh": "EagleEye"
+  },
+  "KYT": {
+    "zh-cn": "KYT",
+    "ko": "KYT",
+    "zh": "KYT"
+  },
+  "VaaS": {
+    "zh-cn": "VaaS",
+    "ko": "VaaS",
+    "zh": "VaaS"
+  },
+  "Malicious Websites Identification": {
+    "zh-cn": "恶意网站甄别",
+    "ko": "악성 웹사이트 식별",
+    "zh": "惡意網站甄別"
+  },
+  "Smart Contract Audit": {
+    "zh-cn": "智能合约审计",
+    "ko": "스마트 계약 감사",
+    "zh": "智能合約審計"
+  },
+  "Blockchain Security Audit": {
+    "zh-cn": "区块链安全审计",
+    "ko": "블록체인 보안 감사",
+    "zh": "區塊鏈安全審計"
+  },
+  "Cryptocurrency Tracing": {
+    "zh-cn": "加密货币追踪",
+    "ko": "암호화폐 추적",
+    "zh": "加密貨幣追蹤"
+  },
+  "Company": {
+    "zh-cn": "公司",
+    "ko": "회사",
+    "zh": "公司"
+  },
+  "About Us": {
+    "zh-cn": "关于我们",
+    "ko": "회사 소개",
+    "zh": "關於我們"
+  },
+  "Terms and Conditions": {
+    "zh-cn": "条款和细则",
+    "ko": "이용 약관",
+    "zh": "條款和細則"
+  },
+  "Privacy Policy": {
+    "zh-cn": "隐私政策",
+    "ko": "개인정보 보호 정책",
+    "zh": "隱私政策"
+  },
+  "Channel Verification": {
+    "zh-cn": "频道验证",
+    "ko": "채널 검증",
+    "zh": "頻道驗證"
+  },
+  "Solution": {
+    "zh-cn": "解决方案",
+    "ko": "솔루션",
+    "zh": "解決方案"
+  },
+  "Compliance": {
+    "zh-cn": "合规",
+    "ko": "컴플라이언스",
+    "zh": "合規"
+  },
+  "Smart Contract Security": {
+    "zh-cn": "智能合约安全",
+    "ko": "스마트 계약 보안",
+    "zh": "智能合約安全"
+  },
+  "Socials": {
+    "zh-cn": "社交平台",
+    "ko": "소셜",
+    "zh": "社交平臺"
+  },
+  "Securing the blockchain ecosystem is our only mission": {
+    "zh-cn": "保障区块链生态安全是我们唯一的使命",
+    "ko": "블록체인 생태계의 보안이 우리의 유일한 임무입니다",
+    "zh": "保障區塊鏈生態安全是我們唯一的使命"
+  },
+  "Beosin is a leading global blockchain security company co-founded by professors from world-renowned universities and there are 40+ PhDs in the team. It has offices in Singapore, Hong Kong, Japan and other 10+ countries and regions. With the mission of \"Securing Blockchain Ecosystem\", Beosin provides \"All-in-One\" blockchain security solution covering Smart Contract Audit, On-chain Risk Monitoring & Alert, KYT AML, and Crypto Tracing. Beosin has already audited more than 3000 smart contracts including famous Web3 projects PancakeSwap, DODO, DeBox and Ankr. The KYT AML are serving 100+ institutions including Hashkey, Cobo, OpenBlock, Aegis and Celer.": {
+    "zh-cn": "Beosin是一家全球领先的区块链安全公司，由多位世界知名大学的教授共同创立，团队中有40多名博士。公司在新加坡、香港、日本以及其他10多个国家和地区设有办事处。以“保护区块链生态系统”为使命，Beosin提供“一站式”区块链安全解决方案，涵盖智能合约审计、链上风险监控与预警、KYT/AML、加密资产追踪。目前，Beosin已经审计了超过3000个智能合约，包括著名的Web3项目PancakeSwap、DODO、DeBox和Ankr。KYT/AML已经为包括Hashkey、Cobo、OpenBlock、Aegis和Celer在内的100多家机构提供服务。",
+    "ko": "Beosin은 세계적으로 선도적인 블록체인 보안 기업으로, 세계적으로 유명한 대학 교수들에 의해 공동 설립되었으며 팀 내에는 40명 이상의 박사학위 소지자가 있습니다. 회사는 싱가포르, 홍콩, 일본 및 기타 10개 이상의 국가 및 지역에 사무실을 두고 있으며 \"블록체인 생태계의 안전 보장\"이라는 사명을 가지고 있습니다. Beosin은 스마트 계약 감사, 온체인 위험 모니터링 및 경보, KYT AML 및 암호화 통한 \"올인원\" 블록체인 보안 솔루션을 제공합니다. Beosin은 이미 PancakeSwap, DODO, DeBox 및 Ankr와 같은 유명한 Web3 프로젝트를 포함한 3000개 이상의 스마트 계약을 감사하였으며. KYT AML은 Hashkey, Cobo, OpenBlock, Aegis 및 Celer와 같은 100개 이상의 기관에 서비스를 제공하고 있습니다.",
+    "zh": "Beosin是一家全球領先的區塊鏈安全公司，由多位世界知名大學的教授共同創立，團隊中有40多名博士。公司在新加坡、香港、日本以及其他10多個國家和地區設有辦事處。以「保護區塊鏈生態系統」為使命，Beosin提供「一站式」區塊鏈安全解決方案，涵蓋智能合約審計、鏈上風險監控與預警、KYT/AML、加密資產追蹤。目前，Beosin已經審計了超過3000個智能合約，包括著名的Web3項目PancakeSwap、DODO、DeBox和Ankr。KYT/AML已經為包括Hashkey、Cobo、OpenBlock、Aegis和Celer在內的100多家機構提供服務。"
+  },
+  "Years of scientific research": {
+    "zh-cn": "多年科学研究",
+    "ko": "과학 연구의 여러 해",
+    "zh": "多年科學研究"
+  },
+  "Smart contract audits": {
+    "zh-cn": "智能合约审计",
+    "ko": "스마트 계약 감사",
+    "zh": "智能合約審計"
+  },
+  "Public chain and wallet defense deployments": {
+    "zh-cn": "公链和钱包防卫部署",
+    "ko": "공용 체인 및 지갑 방어 배치",
+    "zh": "公鏈和錢包防衛部署"
+  },
+  "Exchange Partnerships": {
+    "zh-cn": "交易所合作",
+    "ko": "거래소 파트너십",
+    "zh": "交易所合作"
+  },
+  "SECURING THE BLOCKCHAIN ECOLOGY": {
+    "zh-cn": "保护区块链生态",
+    "ko": "블록체인 생태계 보호",
+    "zh": "保護區塊鏈生態"
+  },
+  "Contact": {
+    "zh-cn": "联系方式",
+    "ko": "연락처",
+    "zh": "聯繫方式"
+  },
+  "mail": {
+    "zh-cn": "邮箱",
+    "ko": "메일",
+    "zh": "郵箱"
+  },
+  "Community": {
+    "zh-cn": "社区",
+    "ko": "커뮤니티",
+    "zh": "社區"
+  },
+  "Beosin, your blockchain security expert.": {
+    "zh-cn": "Beosin，你的区块链安全专家",
+    "ko": "Beosin, 귀하의 블록체인 보안 전문가.",
+    "zh": "Beosin，你的區塊鏈安全專家"
+  },
+  "Contact Us": {
+    "zh-cn": "联系我们",
+    "ko": "문의하기",
+    "zh": "聯繫我們"
+  },
+  "Learn More": {
+    "zh-cn": "了解更多",
+    "ko": "자세히 알아보기",
+    "zh": "瞭解更多"
+  },
+  "Personalized investigation service for stolen cryptocurrency, blackmailed, or transferred into Tornado Cash.": {
+    "zh-cn": "为被盗的，被勒索的或转移到龙卷风的加密资产提供个人定制的调查服务。",
+    "ko": "도난당한 암호화폐, 협박, 토네이도 캐시로 전송된 경우를 위한 맞춤형 조사 서비스.",
+    "zh": "為被盜的，被勒索的或轉移到龍捲風的加密資產提供個人定制的調查服務。"
+  },
+  "Recovered for 1,000+ clients": {
+    "zh-cn": "为1000+客户追回资产",
+    "ko": "1,000+ 고객의 회수 도움",
+    "zh": "為1000+客戶追回資產"
+  },
+  "Beosin Tracing": {
+    "zh-cn": "Beosin Tracing",
+    "ko": "Beosin 추적",
+    "zh": "Beosin Tracing"
+  },
+  "Beosin Tracing helps clients prevent cryptocurrency threats such as scams, ransom, assets being transferred into Tornado Cash, and other security threats; and investigate cryptocurrency theft cases.": {
+    "zh-cn": "Beosin Tracing帮助客户防止加密货币威胁，如诈骗、赎金、资产转移被到Tornado Cash和其它安全威胁；调查加密货币盗窃案件。",
+    "ko": "Beosin 추적은 클라이언트가 사기, 몸값, 토네이도 캐시로 전송된 자산 등 암호화폐 위협을 예방하고 도난 사건을 조사하는 데 도움을 줍니다.",
+    "zh": "Beosin Tracing幫助客戶防止加密貨幣威脅，如詐騙、贖金、資產轉移被到Tornado Cash和其他安全威脅；調查加密貨幣盜竊案件。"
+  },
+  "With a full range of capabilities, the Tracing service can assist clients in recovering their lost cryptocurrencies. It supports AML Risk Assessment, Transaction Analysis, Crypto Address Monitoring, Real-time Intelligence Notification, and Cryptocurrency Forensics Report that law enforcement agencies can use.": {
+    "zh-cn": "追踪服务功能全面，可以帮助客户追回丢失的加密货币。它支持反洗钱风险评估、交易分析、加密地址监控、实时智能通知和可供执法机构使用的加密货币取证报告。",
+    "ko": "추적 서비스는 전체 기능을 갖추고 있어, 클라이언트가 잃어버린 암호화폐를 회수하는데 도움이 됩니다. AML 위험 평가, 거래 분석, 암호화 주소 모니터링, 실시간 정보 알림 및 암호화폐 포렌식 보고서를 지원하며, 법 집행 기관이 사용할 수 있습니다.",
+    "zh": "追蹤服務功能全面，可以幫助客戶追回丟失的加密貨幣。它支持反洗錢風險評估、交易分析、加密地址監控、即時智能通知和可供執法機構使用的加密貨幣取證報告。"
+  },
+  "AML Risk Assessment": {
+    "zh-cn": "反洗钱风险评估",
+    "ko": "AML 위험 평가",
+    "zh": "反洗錢風險評估"
+  },
+  "Through AML Risk Assessment, clients can assess the risk of each wallet address before performing crypto transactions to ensure AML compliance.": {
+    "zh-cn": "通过反洗钱风险评估，客户可以在进行加密交易之前评估每个钱包地址的风险，以确保反洗钱合规。",
+    "ko": "AML 위험 평가를 통해 클라이언트는 암호화폐 거래를 수행하기 전에 각 지갑 주소의 위험을 평가하여 AML 준수를 보장할 수 있습니다.",
+    "zh": "通過反洗錢風險評估，客戶可以在進行加密交易之前評估每個錢包地址的風險，以確保反洗錢合規。"
+  },
+  "Crypto Address Monitoring": {
+    "zh-cn": "加密货币地址监控",
+    "ko": "암호화 주소 모니터링",
+    "zh": "加密貨幣地址監控"
+  },
+  "Hackers often move funds from one address to another to hide their tracks. Crytpo Address Monitoring can monitor suspicious crypto addresses in real-time. When a transfer is initiated, new addresses are immediately tagged and stored in our database to be monitored.": {
+    "zh-cn": "黑客经常将资金从一个地址转移到另一个地址，以隐藏他们的踪迹。加密货币地址监控可以实时监控可疑的地址。当转移开始时，新地址立即被标记并存储在我们的数据库中以进行监控。",
+    "ko": "해커들은 종종 자금을 한 주소에서 다른 주소로 이동시켜 자취를 숨깁니다. 암호화 주소 모니터링은 의심스러운 암호화 주소를 실시간으로 모니터링 할 수 있습니다. 이체가 시작되면, 새로운 주소는 즉시 태그되어 데이터베이스에 저장되어 모니터링됩니다.",
+    "zh": "駭客經常將資金從一個地址轉移到另一個地址，以隱藏他們的蹤跡。加密貨幣地址監控可以即時監控可疑的地址。當轉移開始時，新地址立即被標記並存儲在我們的資料庫中以進行監控。"
+  },
+  "Transaction Analysis": {
+    "zh-cn": "交易分析",
+    "ko": "거래 분석",
+    "zh": "交易分析"
+  },
+  "The Transaction Analysis feature can help find the final destination of stolen crypto funds, regardless of the complexity of transactions. With a library containing 300+ million tagged addresses, we can track and analyze mixers like Tornado Cash to discover the destination through Big Data analysis and Artificial Intelligence algorithms.": {
+    "zh-cn": "无论交易有多复杂，交易分析功能可以帮助找到被盗资金的最终地址。借助包含超过3亿个标记地址的库，我们可以通过大数据分析和人工智能算法来跟踪和分析像Tornado Cash这样的混币器，从而发现目的地址。",
+    "ko": "거래 분석 기능은 도난당한 암호화폐 자금의 최종 목적지를 찾아내는 데 도움이 됩니다. 3억개 이상의 태그된 주소를 포함하는 라이브러리를 활용하여, 토네이도 캐시와 같은 믹서를 추적하고, 빅 데이터 분석 및 인공지능 알고리즘을 사용하여 목적지를 찾아냅니다.",
+    "zh": "無論交易有多複雜，交易分析功能可以幫助找到被盜資金的最終地址。借助包含超過3億個標記地址的庫，我們可以通過大數據分析和人工智慧演算法來跟蹤和分析像Tornado Cash這樣的混幣器，從而發現目的地址。"
+  },
+  "Real-time Intelligence Notification": {
+    "zh-cn": "实时智能提醒",
+    "ko": "실시간 정보 알림",
+    "zh": "即時智能提醒"
+  },
+  "Whenever stolen funds are deposited to an exchange address, Beosin can notify victims immediately.": {
+    "zh-cn": "当被盗资金被存入交易所地址时，Beosin可以立即通知受害者。",
+    "ko": "도난당한 자금이 거래소 주소에 입금되면 Beosin은 피해자에게 즉시 알릴 수 있습니다.",
+    "zh": "當被盜資金被存入交易所地址時，Beosin可以立即通知受害者。"
+  },
+  "Forensics Analysis Report": {
+    "zh-cn": "取证分析报告",
+    "ko": "포렌식 분석 보고서",
+    "zh": "取證分析報告"
+  },
+  "The Tracing service can generate a report containing forensic information about an investigated crypto transaction. It includes specific crypto addresses, transactions, wallets, entities, and links between them to explore the transactional relationship and uncover suspicious activities. This type of report findings can be used to assist law enforcement organizations in their relevant investigation and actions.": {
+    "zh-cn": "跟踪服务可以生成一个报告，其中包含有关调查的交易的取证信息。它包括特定的加密地址、交易、钱包、实体以及它们之间的链接，以寻找交易之间的关系并发现可疑活动。这类报告的调查结果可用于协助执法机构进行相关的调查和行动。",
+    "ko": "추적 서비스는 조사된 암호화폐 거래에 대한 포렌식 정보를 포함한 보고서를 생성할 수 있습니다. 특정 암호화 주소, 거래, 지갑, 엔티티 및 그들 사이의 연결을 포함하여 거래 관계를 살펴보고 의심스러운 활동을 밝혀낼 수 있습니다. 이러한 유형의 보고서 결과는 법 집행 기관이 관련 조사 및 조치를 지원하는데 사용할 수 있습니다.",
+    "zh": "跟蹤服務可以生成一個報告，其中包含有關調查的交易的取證資訊。它包括特定的加密地址、交易、錢包、實體以及它們之間的鏈接，以尋找交易之間的關係併發現可疑活動。這類報告的調查結果可用於協助執法機構進行相關的調查和行動。"
+  },
+  "Successful Stories": {
+    "zh-cn": "成功案例",
+    "ko": "성공적인 이야기",
+    "zh": "成功案例"
+  },
+  "A FIL coin staking node was exploited. The hacker modified the node address and transferred unfrozen cryptocurrencies via Tornado Cash. Beosin security team was able to track the stolen cryptocurrency transactions and their final destinations.": {
+    "zh-cn": "一个FIL币质押节点被攻击。黑客修改了节点地址，并通过Tornado Cash转移了未冻结的加密货币。Beosin安全团队追踪被盗的加密货币交易及其最终地址。",
+    "ko": "FIL 코인 스테이킹 노드가 공격당했습니다. 해커는 노드 주소를 수정하고 토네이도 캐시를 통해 동결 해제된 암호화폐를 이체했습니다. Beosin 보안 팀은 도난당한 암호화폐 거래와 최종 목적지를 추적할 수 있었습니다.",
+    "zh": "一個FIL幣質押節點被攻擊。駭客修改了節點地址，並通過Tornado Cash轉移了未凍結的加密貨幣。Beosin安全團隊追蹤被盜的加密貨幣交易及其最終地址。"
+  },
+  "In a “rug pull” scan on an Ethereum project, Beosin’s team help the client analyze fund flows, lock the target address, assist the client to report to the law enforcement and issue a forensic report.": {
+    "zh-cn": "在对以太坊项目的跑路骗局扫描中，Beosin团队帮助客户分析资金流，锁定目标地址，协助客户向执法部门报告并发布取证报告。",
+    "ko": "이더리움 프로젝트의 \"rug pull\" 스캔에서 Beosin 팀은 고객이 자금 흐름을 분석하고 목표 주소를 잠그고, 법 집행 기관에 신고하고 포렌식 보고서를 발행하는데 도움을 주었습니다.",
+    "zh": "在對以太坊專案的跑路騙局掃描中，Beosin團隊幫助客戶分析資金流，鎖定目標地址，協助客戶向執法部門報告併發布取證報告。"
+  },
+  "Process": {
+    "zh-cn": "流程",
+    "ko": "과정",
+    "zh": "流程"
+  },
+  "Case Communication": {
+    "zh-cn": "案例交流",
+    "ko": "사건 커뮤니케이션",
+    "zh": "案例交流"
+  },
+  "Analyzing fund flow": {
+    "zh-cn": "分析资金流向",
+    "ko": "자금 흐름 분석",
+    "zh": "分析資金流向"
+  },
+  "Targeting the suspects": {
+    "zh-cn": "锁定嫌疑地址",
+    "ko": "피의자 표적",
+    "zh": "鎖定嫌疑地址"
+  },
+  "Targeting the money": {
+    "zh-cn": "锁定被盗资金",
+    "ko": "금전 추적",
+    "zh": "鎖定被盜資金"
+  },
+  "Issuing forensic reports": {
+    "zh-cn": "发布取证报告",
+    "ko": "포렌식 보고서 발행",
+    "zh": "發佈取證報告"
+  },
+  "Submit": {
+    "zh-cn": "提交",
+    "ko": "제출",
+    "zh": "提交"
+  },
+  "Multi-dimensional, Multi-round, and Multi-way audit to secure blockchains.": {
+    "zh-cn": "多维度、多轮次、多种方法审计以确保区块链安全",
+    "ko": "블록체인을 보호하기 위한 다차원, 다단계, 다방면 감사",
+    "zh": "多維度、多輪次、多種方法審計以確保區塊鏈安全"
+  },
+  "Beosin provides multi-dimensional security audits on blockchains and ensures the overall security in node communication, storage, consensus, and authority management through three Audit options. They are Black Box, Gray Box, and White Box testing.": {
+    "zh-cn": "Beosin为区块链提供多维度安全审计，通过三种审计方式，确保节点通信、存储、共识、权限管理等方面的整体安全。它们是黑盒、灰盒和白盒测试。",
+    "ko": "Beosin은 블록체인에 대한 다차원 보안 감사를 제공하며, 노드 통신, 저장, 합의, 권한 관리에서 전체 보안을 보장하기 위해 세 가지 감사 옵션을 사용합니다. 이에는 블랙 박스, 그레이 박스, 화이트 박스 테스트가 포함됩니다.",
+    "zh": "Beosin為區塊鏈提供多維度安全審計，通過三種審計方式，確保節點通信、存儲、共識、許可權管理等方面的整體安全。它們是黑盒、灰盒和白盒測試。"
+  },
+  "Total customers served": {
+    "zh-cn": "总服务客户",
+    "ko": "총 고객 수",
+    "zh": "總服務客戶"
+  },
+  "Audited contracts": {
+    "zh-cn": "已审计合约",
+    "ko": "감사된 계약",
+    "zh": "已審計合約"
+  },
+  "Total audited funds": {
+    "zh-cn": "总审计资金",
+    "ko": "총 감사 자금",
+    "zh": "總審計資金"
+  },
+  "Security Audit Report Search": {
+    "zh-cn": "安全审计报告搜索",
+    "ko": "보안 감사 보고서 검색",
+    "zh": "安全審計報告搜索"
+  },
+  "Service Content": {
+    "zh-cn": "服务内容",
+    "ko": "서비스 내용",
+    "zh": "服務內容"
+  },
+  "Language Coding Security Audit": {
+    "zh-cn": "语言编程安全审计",
+    "ko": "언어 코딩 보안 감사",
+    "zh": "語言編程安全審計"
+  },
+  "Block Production And Governance Audit": {
+    "zh-cn": "区块产出和治理审计",
+    "ko": "블록 생성 및 거버넌스 감사",
+    "zh": "區塊產出和治理審計"
+  },
+  "Accounts System Security Audit": {
+    "zh-cn": "账户系统安全审计",
+    "ko": "계정 시스템 보안 감사",
+    "zh": "帳戶系統安全審計"
+  },
+  "Assets Security Audit": {
+    "zh-cn": "资产安全审计",
+    "ko": "자산 보안 감사",
+    "zh": "資產安全審計"
+  },
+  "Application Layer Security Audit": {
+    "zh-cn": "应用层安全审计",
+    "ko": "응용 계층 보안 감사",
+    "zh": "應用層安全審計"
+  },
+  "Service Process": {
+    "zh-cn": "服务流程",
+    "ko": "서비스 과정",
+    "zh": "服務流程"
+  },
+  "Blockchain Platform Security Audit Options": {
+    "zh-cn": "区块链平台安全审计选项",
+    "ko": "블록체인 플랫폼 보안 감사 옵션",
+    "zh": "區塊鏈平臺安全審計選項"
+  },
+  "White Box Testing": {
+    "zh-cn": "白盒测试",
+    "ko": "화이트 박스 테스트",
+    "zh": "白盒測試"
+  },
+  "Grey Box Testing": {
+    "zh-cn": "灰盒测试",
+    "ko": "그레이 박스 테스트",
+    "zh": "灰盒測試"
+  },
+  "Black Box Testing": {
+    "zh-cn": "黑盒测试",
+    "ko": "블랙 박스 테스트",
+    "zh": "黑盒測試"
+  },
+  "ABOUT BEOSIN": {
+    "zh-cn": "关于BEOSIN",
+    "ko": "BEOSIN 소개",
+    "zh": "關於BEOSIN"
+  },
+  "About Beosin": {
+    "zh-cn": "关于Beosin",
+    "ko": "Beosin 소개",
+    "zh": "關於Beosin"
+  },
+  "Beosin is a leading global blockchain security brand co-founded by several professors from world-renowned universities. The team consists of 100+ security experts with 40+ PhDs and postdocs.": {
+    "zh-cn": "Beosin是由多位世界知名大学教授共同创立的全球领先的区块链安全品牌。该团队由100多名安全专家组成，其中有40多名博士和博士后。",
+    "ko": "Beosin은 세계적인 명문 대학의 몇몇 교수들이 공동 설립한 세계적인 블록체인 보안 브랜드입니다. 팀은 40여명의 박사 및 박사 후 연구원을 포함한 100여명의 보안 전문가로 구성되어 있습니다.",
+    "zh": "Beosin是由多位世界知名大學教授共同創立的全球領先的區塊鏈安全品牌。該團隊由100多名安全專家組成，其中有40多名博士和博士後。"
+  },
+  "With the “Securing Blockchain Ecosystem” mission, Beosin provides integrated blockchain security services and products to serve one million+ user in the global blockchain ecosystem.": {
+    "zh-cn": "以“保护区块链生态”为使命，Beosin为全球超过100万区块链生态用户提供综合区块链安全服务和产品。",
+    "ko": "블록체인 생태계 보호라는 사명을 가지고 Beosin은 글로벌 블록체인 생태계의 백만 이상의 사용자를 위한 통합 블록체인 보안 서비스와 제품을 제공합니다.",
+    "zh": "以“保護區塊鏈生態”為使命，Beosin為全球超過100萬區塊鏈生態用戶提供綜合區塊鏈安全服務和產品。"
+  },
+  "Over 3000 smart contract projects audited worldwide.": {
+    "zh-cn": "全球已审计超过3000份智能合约",
+    "ko": "전 세계적으로 3000개 이상의 스마트 계약 프로젝트 감사",
+    "zh": "全球已審計超過3000份智能合約"
+  },
+  "We provide professional security audit service for smart contracts of multiple blockchain platforms based on formal verification technology. Through comprehensive verification on traditional vulnerabilities and business logic correctness, we ensure the consistency between code and business logic.": {
+    "zh-cn": "我们基于形式化验证技术为多个区块链平台的智能合约提供专业的安全审计服务。通过对传统漏洞和业务逻辑正确性的全面验证，确保代码与业务逻辑的一致性。",
+    "ko": "우리는 정형 검증 기술을 기반으로 한 다양한 블록체인 플랫폼의 스마트 계약에 대한 전문 보안 감사 서비스를 제공합니다. 전통적인 취약점과 비즈니스 로직의 정확성에 대한 종합적인 검증을 통해 코드와 비즈니스 로직 간의 일관성을 보장합니다.",
+    "zh": "我們基於形式化驗證技術為多個區塊鏈平臺的智能合約提供專業的安全審計服務。通過對傳統漏洞和業務邏輯正確性的全面驗證，確保代碼與業務邏輯的一致性。"
+  },
+  "Asset Security Audit": {
+    "zh-cn": "资产安全审计",
+    "ko": "자산 보안 감사",
+    "zh": "資產安全審計"
+  },
+  "Business Logic Audit": {
+    "zh-cn": "业务逻辑审计",
+    "ko": "비즈니스 로직 감사",
+    "zh": "業務邏輯審計"
+  },
+  "Backdoor Audit": {
+    "zh-cn": "后门审计",
+    "ko": "백도어 감사",
+    "zh": "後門審計"
+  },
+  "Flash Loan Attack Audit": {
+    "zh-cn": "闪电贷攻击审计",
+    "ko": "플래시 로안 공격 감사",
+    "zh": "閃電貸攻擊審計"
+  },
+  "Arbitrage Attack Audit": {
+    "zh-cn": "套利攻击审计",
+    "ko": "차익공격 감사",
+    "zh": "套利攻擊審計"
+  },
+  "Reentrancy Audit": {
+    "zh-cn": "重入攻击审计",
+    "ko": "재진입 감사",
+    "zh": "重入攻擊審計"
+  },
+  "Code Standards Audit": {
+    "zh-cn": "代码标准审计",
+    "ko": "코드 표준 감사",
+    "zh": "代碼標準審計"
+  },
+  "Source Code Inspection": {
+    "zh-cn": "源代码检查",
+    "ko": "소스 코드 검사",
+    "zh": "源代碼檢查"
+  },
+  "Project Evaluation": {
+    "zh-cn": "项目评估",
+    "ko": "프로젝트 평가",
+    "zh": "專案評估"
+  },
+  "What’s in the audit report?": {
+    "zh-cn": "审计报告中包含什么？",
+    "ko": "감사 보고서에는 무엇이 포함되어 있나요?",
+    "zh": "審計報告中包含什麼？"
+  },
+  "The audit report summarizes the formal verification analysis and manual code review results. It includes detailed information on each identified vulnerability with severity level (Critical, High, Medium, Low, and Informational) and fix recommendations. The report comes with charts and graphs to present visual insights into an audited project.": {
+    "zh-cn": "审计报告总结了形式化验证分析和人工代码评审的结果。它包括每个已识别漏洞的详细信息，其严重性级别(关键、高、中、低和信息)和修复建议。该报告带有图表以提供对审计项目的可视化理解。",
+    "ko": "감사 보고서는 정형 검증 분석 및 수동 코드 리뷰 결과를 요약합니다. 각 식별된 취약점에 대한 자세한 정보와 심각도 수준(위험, 높음, 중간, 낮음 및 정보) 및 수정 권장 사항이 포함됩니다. 보고서에는 감사된 프로젝트의 시각적인 통찰력을 제공하기 위해 차트와 그래프가 포함되어 있습니다.",
+    "zh": "審計報告總結了形式化驗證分析和人工代碼評審的結果。它包括每個已識別漏洞的詳細資訊，其嚴重性級別(關鍵、高、中、低和資訊)和修復建議。該報告帶有圖表以提供對審計專案的可視化理解。"
+  },
+  "Security Audit Reports": {
+    "zh-cn": "安全审计报告",
+    "ko": "보안 감사 보고서",
+    "zh": "安全審計報告"
+  },
+  "Secure smart contract code": {
+    "zh-cn": "保护智能合约代码安全",
+    "ko": "스마트 계약 코드를 안전하게 유지",
+    "zh": "保護智能合約代碼安全"
+  },
+  "Monitor the operation status of smart contract": {
+    "zh-cn": "监控智能合约运行状态",
+    "ko": "스마트 계약의 운영 상태 모니터링",
+    "zh": "監控智能合約運行狀態"
+  },
+  "Timely alert of abnormal smart contract activities": {
+    "zh-cn": "及时对智能合约异常活动预警",
+    "ko": "스마트 계약 활동의 비정상적인 상태에 대한 적시 경고",
+    "zh": "及時對智能合約異常活動預警"
+  },
+  "Block attacks on smart contract": {
+    "zh-cn": "阻断对智能合约的攻击",
+    "ko": "스마트 계약 공격 차단",
+    "zh": "阻斷對智能合約的攻擊"
+  },
+  "Lost assets recovery": {
+    "zh-cn": "被盗资产恢复",
+    "ko": "분실된 자산 복구",
+    "zh": "被盜資產恢復"
+  },
+  "Pain Points": {
+    "zh-cn": "痛点",
+    "ko": "고통 포인트",
+    "zh": "痛點"
+  },
+  "Smart contract code security is unknown after development.": {
+    "zh-cn": "开发后智能合约代码的安全性是未知的",
+    "ko": "개발 후 스마트 계약 코드의 보안이 알려져 있지 않음.",
+    "zh": "開發後智能合約代碼的安全性是未知的"
+  },
+  "Lack of monitoring for abnormal operational status when the smart contract is running.": {
+    "zh-cn": "智能合约运行时缺少对其异常运行状态的监控",
+    "ko": "스마트 계약이 실행되는 동안 비정상적인 운영 상태에 대한 모니터링 부족.",
+    "zh": "智能合約運行時缺少對其異常運行狀態的監控"
+  },
+  "When a smart contract is attacked, it is hard to prevent the continuing attacks to reduce the loss.": {
+    "zh-cn": "当智能合约受到攻击时，很难阻止持续的攻击以减少损失。",
+    "ko": "스마트 계약이 공격당할 때, 지속되는 공격을 방지하여 손실을 줄이기 어려움.",
+    "zh": "當智能合約受到攻擊時，很難阻止持續的攻擊以減少損失。"
+  },
+  "After a smart contract is attacked, it is hard to analyze, review and forensically analyze the hacker's behavior.": {
+    "zh-cn": "智能合约受到攻击后，很难对黑客的行为进行分析、审查和取证分析。",
+    "ko": "스마트 계약이 공격당한 후, 해커의 행동을 분석, 검토 및 포렌식 분석하기 어려움.",
+    "zh": "智能合約受到攻擊後，很難對駭客的行為進行分析、審查和取證分析。"
+  },
+  "Security audit before smart contract deployment": {
+    "zh-cn": "在智能合约部署前进行安全审计",
+    "ko": "스마트 계약 배포 전 보안 감사",
+    "zh": "在智能合約部署前進行安全審計"
+  },
+  "Monitor the running status of the smart contract after going live": {
+    "zh-cn": "监控智能合约上线后的运行状态",
+    "ko": "서비스 시작 후 스마트 계약의 실행 상태 모니터링",
+    "zh": "監控智能合約上線後的運行狀態"
+  },
+  "Analysis and forensics after attacks": {
+    "zh-cn": "在被攻击后进行分析和取证",
+    "ko": "공격 후 분석 및 포렌식",
+    "zh": "在被攻擊後進行分析和取證"
+  },
+  "Based on Formal Verification Technology": {
+    "zh-cn": "基于形式化验证技术",
+    "ko": "정형 검증 기술 기반",
+    "zh": "基於形式化驗證技術"
+  },
+  "Provide contract risk check": {
+    "zh-cn": "提供合约风险检查",
+    "ko": "계약 위험 검사 제공",
+    "zh": "提供合約風險檢查"
+  },
+  "Ensure code and logic are consistent and secure": {
+    "zh-cn": "保证代码与逻辑的一致性和安全",
+    "ko": "코드와 로직이 일관되고 안전한지 확인",
+    "zh": "保證代碼與邏輯的一致性和安全"
+  },
+  "Smart Contract Operation Monitor": {
+    "zh-cn": "智能合约运行监控",
+    "ko": "스마트 계약 운영 모니터",
+    "zh": "智能合約運行監控"
+  },
+  "Monitor project operation status": {
+    "zh-cn": "监控项目运行状态",
+    "ko": "프로젝트 운영 상태 모니터링",
+    "zh": "監控專案運行狀態"
+  },
+  "Real time analysis of the transaction behavior of smart contract": {
+    "zh-cn": "实时分析智能合约交易行为",
+    "ko": "스마트 계약의 거래 행동 실시간 분석",
+    "zh": "即時分析智能合約交易行為"
+  },
+  "Provide timely risk intelligence": {
+    "zh-cn": "提供及时的风险情报",
+    "ko": "적시 위험 정보 제공",
+    "zh": "提供及時的風險情報"
+  },
+  "AI Risk Identification": {
+    "zh-cn": "AI风险识别",
+    "ko": "AI 위험 식별",
+    "zh": "AI風險識別"
+  },
+  "Use AI technology to find various types of abnormal trading behavior": {
+    "zh-cn": "使用AI技术发现多种异常交易行为",
+    "ko": "AI 기술을 사용하여 다양한 유형의 비정상 거래 행동 찾기",
+    "zh": "使用AI技術發現多種異常交易行為"
+  },
+  "Discover risks such as attacks and token prices anomalies": {
+    "zh-cn": "发现诸如攻击和代币价格异常的风险",
+    "ko": "공격 및 토큰 가격 이상과 같은 위험 발견",
+    "zh": "發現諸如攻擊和代幣價格異常的風險"
+  },
+  "Smart Contract Timely Alerts": {
+    "zh-cn": "智能合约及时预警",
+    "ko": "스마트 계약 적시 경보",
+    "zh": "智能合約及時預警"
+  },
+  "Custom abnormal behavior alerts": {
+    "zh-cn": "自定义异常行为预警",
+    "ko": "사용자 정의 비정상 행동 경보",
+    "zh": "自定義異常行為預警"
+  },
+  "Optimize your smart contract risk management strategy": {
+    "zh-cn": "最优化您的智能合约风险管理策略",
+    "ko": "스마트 계약 위험 관리 전략 최적화",
+    "zh": "最優化您的智能合約風險管理策略"
+  },
+  "Smart contract Attacks Block": {
+    "zh-cn": "智能合约攻击阻断",
+    "ko": "스마트 계약 공격 차단",
+    "zh": "智能合約攻擊阻斷"
+  },
+  "Immediately block the malicious transactions": {
+    "zh-cn": "立即阻断恶意交易",
+    "ko": "악의적인 거래 즉시 차단",
+    "zh": "立即阻斷惡意交易"
+  },
+  "Use automatic monitoring to block": {
+    "zh-cn": "使用自动监控以阻断",
+    "ko": "자동 모니터링을 사용하여 차단",
+    "zh": "使用自動監控以阻斷"
+  },
+  "Integrate firewalls into your smart contract": {
+    "zh-cn": "在您的智能合约中集成防火墙",
+    "ko": "스마트 계약에 방화벽 통합",
+    "zh": "在您的智能合約中集成防火牆"
+  },
+  "Security Experts Support": {
+    "zh-cn": "安全专家支持",
+    "ko": "보안 전문가 지원",
+    "zh": "安全專家支持"
+  },
+  "Review the attack process, locate and fix vulnerabilities": {
+    "zh-cn": "检查攻击过程，定位并修复漏洞",
+    "ko": "공격 과정 검토, 취약점 찾기 및 수정",
+    "zh": "檢查攻擊過程，定位並修復漏洞"
+  },
+  "Provide 7/24 on-call services to to help recover lost funds": {
+    "zh-cn": "提供7/24全天候服务，帮助追回损失资金",
+    "ko": "분실된 자금 회수를 돕기 위해 7/24 대기 서비스 제공",
+    "zh": "提供7/24全天候服務，幫助追回損失資金"
+  },
+  "Provide incident response to track attacks": {
+    "zh-cn": "提供事件响应以追踪攻击",
+    "ko": "공격 추적을 위한 사고 대응 제공",
+    "zh": "提供事件回應以追蹤攻擊"
+  },
+  "Smart Contract Audit Service": {
+    "zh-cn": "智能合约审计服务",
+    "ko": "스마트 계약 감사 서비스",
+    "zh": "智能合約審計服務"
+  },
+  "Beosin EagleEye - Web3 Security Monitor": {
+    "zh-cn": "Beosin EagleEye - Web3 安全监控",
+    "ko": "Beosin EagleEye - Web3 보안 모니터",
+    "zh": "Beosin EagleEye - Web3 安全監控"
+  },
+  "Beosin Risk Blocking": {
+    "zh-cn": "Beosin风险阻断",
+    "ko": "Beosin 위험 차단",
+    "zh": "Beosin風險阻斷"
+  },
+  "So Stay Tuned": {
+    "zh-cn": "敬请期待",
+    "ko": "계속 주목하십시오",
+    "zh": "敬請期待"
+  },
+  "Painpoints": {
+    "zh-cn": "痛点",
+    "ko": "고통 포인트",
+    "zh": "痛點"
+  },
+  "Cryptocurrency regulatory compliance Policy should be met by VASPs Urgently": {
+    "zh-cn": "虚拟资产服务提供商迫切需要满足加密货币监管合规政策",
+    "ko": "암호화폐 규제 준수 정책은 VASPs에게 긴급하게 준수되어야 함",
+    "zh": "虛擬資產服務提供商迫切需要滿足加密貨幣監管合規政策"
+  },
+  "Complication of risk assessment for virtual asset service provider": {
+    "zh-cn": "虚拟资产服务提供商风险评估的复杂性",
+    "ko": "가상 자산 서비스 제공자를 위한 위험 평가의 복잡성",
+    "zh": "虛擬資產服務提供商風險評估的複雜性"
+  },
+  "Shortage of research, data, tools, and knowledge cause difficulty of developing and implementing business in crypto industry": {
+    "zh-cn": "研究、数据、工具和知识的缺乏导致加密行业业务开发和实施的困难",
+    "ko": "연구, 데이터, 도구 및 지식 부족으로 인해 암호화폐 산업에서 사업 개발 및 구현의 어려움 발생",
+    "zh": "研究、數據、工具和知識的缺乏導致加密行業業務開發和實施的困難"
+  },
+  "Fraudster continue to create new threat vectors and evolve new exploits, and multi-accounting schemes, dummy accounts, group attack is keep growing": {
+    "zh-cn": "欺诈者不断制造新的威胁载体和开发新的漏洞，多账户方案、假账户、群组攻击不断增加",
+    "ko": "사기꾼들은 계속해서 새로운 위협 벡터를 만들고 새로운 공격 수단과 다중 계정 스키마, 가짜 계정, 단체 공격이 늘어나고 있음",
+    "zh": "欺詐者不斷製造新的威脅載體和開發新的漏洞，多帳戶方案、假帳戶、群組攻擊不斷增加"
+  },
+  "Real-time on-chain Monitor and Alert": {
+    "zh-cn": "实时链上监控和预警",
+    "ko": "실시간 온체인 모니터링 및 경보",
+    "zh": "即時鏈上監控和預警"
+  },
+  "Based on Beosin 6+ years experience of onchain data analysis and AI engine analysis, we can monitor and alert large volumes of addresses and activities on-chain and alert risks in real time.": {
+    "zh-cn": "基于Beosin6年以上的链上数据分析和AI引擎分析经验，我们可以实时监控和预警大量的链上地址和活动，并实时预警风险。",
+    "ko": "Beosin의 6년 이상의 온체인 데이터 분석 및 AI 엔진 분석 경험을 바탕으로 대량의 주소와 온체인 활동을 모니터링하고 실시간으로 위험을 경보할 수 있습니다.",
+    "zh": "基於Beosin6年以上的鏈上數據分析和AI引擎分析經驗，我們可以即時監控和預警大量的鏈上地址和活動，並即時預警風險。"
+  },
+  "Massive malicious Address Library": {
+    "zh-cn": "海量恶意地址库",
+    "ko": "대규모 악의적 주소 라이브러리",
+    "zh": "海量惡意地址庫"
+  },
+  "Massive malicious address library(1 Billion+) including Money Laundering/Darknet/Mixer/Stolen, etc.": {
+    "zh-cn": "海量恶意地址库(超过10亿)，包括洗钱/暗网/混币器/盗窃等地址。",
+    "ko": "세탁/다크넷/믹서/도난 등 대규모 악의적 주소 라이브러리(10억개 이상).",
+    "zh": "海量惡意地址庫(超過10億)，包括洗錢/暗網/混幣器/盜竊等地址。"
+  },
+  "Intelligent Analysis Engine": {
+    "zh-cn": "智能分析引擎",
+    "ko": "지능형 분석 엔진",
+    "zh": "智能分析引擎"
+  },
+  "Build various criminal behavior models and intelligently analyze transactions and address with AI technology.": {
+    "zh-cn": "建立各种犯罪行为模型，利用人工智能技术智能分析交易和地址。",
+    "ko": "다양한 범죄 행위 모델을 구축하고 AI 기술을 사용하여 거래와 주소를 지능적으로 분석합니다.",
+    "zh": "建立各種犯罪行為模型，利用人工智慧技術智能分析交易和地址。"
+  },
+  "Suspicious Asset Path Visualization": {
+    "zh-cn": "可疑资产路径可视化",
+    "ko": "수상한 자산 경로 시각화",
+    "zh": "可疑資產路徑可視化"
+  },
+  "Automatic generation of Flow of funds that show the connections between addresses & risks for the VASPs to investigate the source of risks.": {
+    "zh-cn": "自动生成资金流向，显示地址与风险之间的联系，供虚拟资产服务提供商调查风险来源。",
+    "ko": "VASPs가 위험 원천을 조사할 수 있도록 주소 및 위험 간 연결을 보여주는 자금 흐름을 자동 생성합니다.",
+    "zh": "自動生成資金流向，顯示地址與風險之間的聯繫，供虛擬資產服務提供商調查風險來源。"
+  },
+  "7*24 full time Support": {
+    "zh-cn": "全天候支持",
+    "ko": "724 시간 지원",
+    "zh": "全天候支持"
+  },
+  "Beosin has experienced experts in blockchain security industry that provide dedicated 7*24 H support, and emergency response services.": {
+    "zh-cn": "Beosin拥有经验丰富的区块链安全行业专家，提供7*24小时的专业支持和应急响应服务。",
+    "ko": "Beosin은 블록체인 보안 업계의 경험이 풍부한 전문가들로 구성되어 있으며, 전용 724시간 지원 및 긴급 대응 서비스를 제공합니다.",
+    "zh": "Beosin擁有經驗豐富的區塊鏈安全行業專家，提供7*24小時的專業支持和應急回應服務。"
+  },
+  "KYC Automatic Check": {
+    "zh-cn": "KYC自动检查",
+    "ko": "KYC 자동 확인",
+    "zh": "KYC自動檢查"
+  },
+  "An automated biometric on boarding identification system to process Doc Verification, Anti-forgery Checking, Face Verification and Liveness Detection.": {
+    "zh-cn": "一套自动生物识别登陆系统，可处理证件验证、防伪检查、面部验证和活体检测。",
+    "ko": "자동 생체 인증 시스템으로 문서 확인, 위조 방지 확인, 얼굴 인증 및 생존 탐지를 처리합니다.",
+    "zh": "一套自動生物識別登陸系統，可處理證件驗證、防偽檢查、面部驗證和活體檢測。"
+  },
+  "RealID": {
+    "zh-cn": "真实ID",
+    "ko": "RealID",
+    "zh": "真實ID"
+  },
+  "Determine you are who you say that you are. Check. ID authenticity, content, and match face-on-doc with user’s live selfie images.": {
+    "zh-cn": "确定你就是你所声称的身份。检查ID真实性，内容，并与用户的实时自拍图像进行匹配。",
+    "ko": "본인 확인, 신분증의 진위 여부, 내용 확인, 실시간 셀카 이미지와 문서 상의 얼굴 비교.",
+    "zh": "確定你就是你所聲稱的身份。檢查ID真實性，內容，並與用戶的即時自拍圖像進行匹配。"
+  },
+  "Doc Verification and Anti-forgery checking": {
+    "zh-cn": "证件验证和防伪检查",
+    "ko": "문서 확인 및 위조 방지 확인",
+    "zh": "證件驗證和防偽檢查"
+  },
+  "Check the authenticity and ensure the information integrity for passports, ID cards and other Identity documents.": {
+    "zh-cn": "检查护照、身份证和其他身份证件的真实性，确保信息的完整性。",
+    "ko": "여권, 신분증 및 기타 신원 확인 문서의 진위 여부를 확인하고 정보 무결성을 확보합니다.",
+    "zh": "檢查護照、身份證和其他身份證件的真實性，確保資訊的完整性。"
+  },
+  "Face Verification and liveness detection": {
+    "zh-cn": "面部验证和活体检测",
+    "ko": "얼굴 인증 및 생존 감지",
+    "zh": "面部驗證和活體檢測"
+  },
+  "Authenticate user by face, device and user behavior. Safeguard user login and high value transactions etc.": {
+    "zh-cn": "通过面部、设备和用户行为验证用户。保护用户登录和大额交易的安全等。",
+    "ko": "얼굴, 장치 및 사용자 행동으로 사용자 인증. 사용자 로그인 및 고가 거래 등을 보호합니다.",
+    "zh": "通過面部、設備和用戶行為驗證用戶。保護用戶登錄和大額交易的安全等。"
+  },
+  "Risk Control": {
+    "zh-cn": "风险控制",
+    "ko": "위험 관리",
+    "zh": "風險控制"
+  },
+  "ID Network designed to check selfie duplicates to prevent multi-account schemes.": {
+    "zh-cn": "ID网络旨在检查自拍重复，以防止多账户。",
+    "ko": "셀카 중복을 확인하여 다중 계정 스키마를 방지하기 위해 설계된 ID 네트워크.",
+    "zh": "ID網路旨在檢查自拍重複，以防止多帳戶。"
+  },
+  "Install Now": {
+    "zh-cn": "现在下载",
+    "ko": "지금 설치하세요",
+    "zh": "現在下載"
+  },
+  "One-Click automatic detection": {
+    "zh-cn": "一键自动检测",
+    "ko": "원 클릭 자동 탐지",
+    "zh": "一鍵自動檢測"
+  },
+  "Just upload the contract, and the platform will automatically detect security risks.": {
+    "zh-cn": "只需上传合约，该平台将自动检测安全风险",
+    "ko": "계약을 업로드하면 플랫폼이 자동으로 보안 위험을 탐지합니다.",
+    "zh": "只需上傳合約，該平臺將自動檢測安全風險"
+  },
+  "Customized Configuration": {
+    "zh-cn": "自定义配置",
+    "ko": "맞춤형 구성",
+    "zh": "自定義配置"
+  },
+  "Customized configuration for different blockchains.": {
+    "zh-cn": "为不同区块链进行自定义配置",
+    "ko": "다양한 블록체인에 대한 맞춤형 구성.",
+    "zh": "為不同區塊鏈進行自定義配置"
+  },
+  "Contract-to-contract verification": {
+    "zh-cn": "合约对合约验证",
+    "ko": "계약 간 검증",
+    "zh": "合約對合約驗證"
+  },
+  "Support inter-call between multiple contracts, able to verify the properties between contracts.": {
+    "zh-cn": "支持多个合约之间的内部调用，能够验证合约之间的属性。",
+    "ko": "여러 계약 간의 상호 호출을 지원하며, 계약 간의 속성을 확인할 수 있습니다.",
+    "zh": "支持多個合約之間的內部調用，能夠驗證合約之間的屬性。"
+  },
+  "Vulnerability report": {
+    "zh-cn": "漏洞报告",
+    "ko": "취약점 보고서",
+    "zh": "漏洞報告"
+  },
+  "The vulnerability report presents the vulnerabilities details including types and severity and also modification suggestions.": {
+    "zh-cn": "漏洞报告提供了漏洞的详细信息，包括漏洞类型和严重程度以及修改建议。",
+    "ko": "취약점 보고서는 취약점의 종류와 심각도뿐만 아니라 수정 제안을 포함한 상세 정보를 제공합니다.",
+    "zh": "漏洞報告提供了漏洞的詳細資訊，包括漏洞類型和嚴重程度以及修改建議。"
+  },
+  "Expert in formal verification": {
+    "zh-cn": "精通形式化验证",
+    "ko": "형식 검증 전문가",
+    "zh": "精通形式化驗證"
+  },
+  "We are one of the first companies in the world to apply formal verification to the blockchain. With over 20 years of experience in formal verification technology, we have audited thousands of smart contracts.": {
+    "zh-cn": "我们是世界上最早将形式化验证应用到区块链的公司之一。凭借20多年形式化验证技术的经验，我们审计了数千份智能合约。",
+    "ko": "우리는 전 세계에서 처음으로 블록체인에 형식 검증을 적용한 회사 중 하나입니다. 형식 검증 기술에서 20년 이상의 경험을 바탕으로, 수천 개의 스마트 계약을 감사했습니다.",
+    "zh": "我們是世界上最早將形式化驗證應用到區塊鏈的公司之一。憑藉20多年形式化驗證技術的經驗，我們審計了數千份智能合約。"
+  },
+  "High-accuracy security testing": {
+    "zh-cn": "高精度安全测试",
+    "ko": "고정밀 보안 테스트",
+    "zh": "高精度安全測試"
+  },
+  "Automatic testing to locate the code vulnerabilities with an accuracy up to 97%.": {
+    "zh-cn": "自动测试以定位代码漏洞，准确率高达97%。",
+    "ko": "코드 취약점을 최대 97%의 정확도로 찾아내는 자동 테스트.",
+    "zh": "自動測試以定位代碼漏洞，準確率高達97%。"
+  },
+  "Support multiply mainstream blockchain platforms": {
+    "zh-cn": "支持多条主流区块链平台",
+    "ko": "다양한 주류 블록체인 플랫폼 지원",
+    "zh": "支持多條主流區塊鏈平臺"
+  },
+  "Supporting ETH, BSC, MATIC, AAVE, ONT, EOS, etc.": {
+    "zh-cn": "支持ETH，BSC，MATIC，AAVE，ONT，EOS等",
+    "ko": "ETH, BSC, MATIC, AAVE, ONT, EOS 등을 지원합니다.",
+    "zh": "支持ETH，BSC，MATIC，AAVE，ONT，EOS等"
+  },
+  "Easy formal specifications": {
+    "zh-cn": "简洁的形式化规范",
+    "ko": "간편한 형식 사양",
+    "zh": "簡潔的形式化規範"
+  },
+  "Formal specifications are written directly in contract language. No additional efforts in learning specification language.": {
+    "zh-cn": "形式化规范是直接用合约语言编写的。在学习规范语言方面不需要额外的成本。",
+    "ko": "형식 사양은 계약 언어로 직접 작성됩니다. 사양 언어를 학습하는 데 추가 노력이 필요하지 않습니다.",
+    "zh": "形式化規範是直接用合約語言編寫的。在學習規範語言方面不需要額外的成本。"
+  },
+  "Request a Demo": {
+    "zh-cn": "请求一份样品",
+    "ko": "데모 요청",
+    "zh": "請求一份樣品"
+  },
+  "Malicious Address Library Inquery": {
+    "zh-cn": "恶意地址库查询",
+    "ko": "악의적 주소 라이브러리 조회",
+    "zh": "惡意地址庫查詢"
+  },
+  "Through Blockchain Security incident Analysis, offline intelligence and unique AI engine analysis technology, Beosin has accumulated billions of labels that includes security attacks, dark web, mixer, fraud, extortion, gambling, etc.": {
+    "zh-cn": "通过区块链安全事件分析、线下智能和独特的AI引擎分析技术，Beosin积累了数十亿个标签，包括安全攻击、暗网、混币器、欺诈、勒索、赌博等。",
+    "ko": "블록체인 보안 사건 분석, 오프라인 인텔리전스 및 독특한 AI 엔진 분석 기술을 통해 Beosin은 보안 공격, 다크 웹, 믹서, 사기, 강요, 도박 등 수십억 개의 라벨을 축적했습니다.",
+    "zh": "通過區塊鏈安全事件分析、線下智能和獨特的AI引擎分析技術，Beosin積累了數十億個標籤，包括安全攻擊、暗網、混幣器、欺詐、勒索、賭博等。"
+  },
+  "Sanctions List Screening": {
+    "zh-cn": "制裁名单筛选",
+    "ko": "제재 목록 스크리닝",
+    "zh": "制裁名單篩選"
+  },
+  "We constantly monitor and update the OFAC sanctions list, the EU sanctions list and the UK sanctions list to ensure the timeliness of our data.": {
+    "zh-cn": "我们不断监测和更新美国海外资产控制办公室制裁名单、欧盟制裁名单和英国制裁名单，以确保我们数据的及时性。",
+    "ko": "OFAC 제재 목록, EU 제재 목록 및 영국 제재 목록을 지속적으로 모니터링하고 업데이트하여 데이터의 신속성을 보장합니다.",
+    "zh": "我們不斷監測和更新美國海外資產控制辦公室制裁名單、歐盟制裁名單和英國制裁名單，以確保我們數據的及時性。"
+  },
+  "Quantitative Risk Assessment": {
+    "zh-cn": "量化风险评估",
+    "ko": "정량적 위험 평가",
+    "zh": "量化風險評估"
+  },
+  "Conduct a comprehensive assessment of transaction & address to locate clear risk points, which makes address & transaction more transparent and helps the user make the most informed decisions.": {
+    "zh-cn": "对交易和地址进行全面评估，找到明确的风险点，使交易和地址更加透明，帮助用户做出最明智的决策。",
+    "ko": "거래 및 주소에 대한 종합적인 평가를 수행하여 명확한 위험 포인트를 찾아내어 주소 및 거래를 더 투명하게 하고 사용자가 가장 신중한 결정을 내릴 수 있도록 돕습니다",
+    "zh": "對交易和地址進行全面評估，找到明確的風險點，使交易和地址更加透明，幫助用戶做出最明智的決策。"
+  },
+  "Address Monitoring Alarm": {
+    "zh-cn": "地址监控预警",
+    "ko": "주소 모니터링 알람",
+    "zh": "地址監控預警"
+  },
+  "In addition to the regular monitoring rules, we provide an exclusive abnormal transaction behavior engine to help customers monitor the abnormal transaction behavior of the address 7*24 hours to avoid the loss of asset and reputation.": {
+    "zh-cn": "除定期监控外，我们还提供独家异常交易行为引擎，帮助客户7*24小时监控地址的异常交易行为，避免资产和信誉损失。",
+    "ko": "일반적인 모니터링 규칙 외에도, 우리는 고유한 비정상 거래 행동 엔진을 제공하여 고객이 주소의 비정상 거래 행동을 7*24 시간 모니터링하여 자산과 평판의 손실을 피할 수 있도록 돕습니다.",
+    "zh": "除定期監控外，我們還提供獨家異常交易行為引擎，幫助客戶7*24小時監控地址的異常交易行為，避免資產和信譽損失。"
+  },
+  "Risk Positioning and Tracking": {
+    "zh-cn": "风险定位与追踪",
+    "ko": "위험 위치 및 추적",
+    "zh": "風險定位與追蹤"
+  },
+  "Intelligently, one-click display suspecious transaction of an address, trace the detailed flow of funds to help clients verify the source of risk and visualize the risk crypto activities on chain for regulatory review.": {
+    "zh-cn": "智能地一键显示某个地址的可疑交易，追踪资金的详细流向，帮助客户验证风险来源，可视化链上风险加密活动，以供监管审查。",
+    "ko": "지능적으로 주소의 의심스러운 거래를 한 번의 클릭으로 표시하고, 자금 흐름의 세부 정보를 추적하여 고객이 위험 원천을 검증하고 규제 검토를 위해 체인 상의 위험 암호 활동을 시각화할 수 있도록 돕습니다.",
+    "zh": "智能地一鍵顯示某個地址的可疑交易，追蹤資金的詳細流向，幫助客戶驗證風險來源，可視化鏈上風險加密活動，以供監管審查。"
+  },
+  "Values": {
+    "zh-cn": "价值",
+    "ko": "가치",
+    "zh": "價值"
+  },
+  "Help clients to meet the regulatory requirements (AML, CFT, etc)": {
+    "zh-cn": "帮助客户达到监管要求（反洗钱，打击恐怖主义融资等）",
+    "ko": "고객이 규제 요건(AML, CFT 등)을 충족하도록 도움",
+    "zh": "幫助客戶達到監管要求（反洗錢，打擊恐怖主義融資等）"
+  },
+  "Help users to securely interact with blockchain protocols": {
+    "zh-cn": "帮助用户安全地与区块链协议交互",
+    "ko": "사용자가 블록체인 프로토콜과 안전하게 상호 작용할 수 있도록 도움",
+    "zh": "幫助用戶安全地與區塊鏈協議交互"
+  },
+  "Reduce business risk of VASPs to the greatest extent": {
+    "zh-cn": "最大程度降低虚拟资产服务商的商业风险",
+    "ko": "VASPs의 비즈니스 위험을 최대한 줄임",
+    "zh": "最大程度降低虛擬資產服務商的商業風險"
+  },
+  "Step 1": {
+    "zh-cn": "第一步",
+    "ko": "단계 1",
+    "zh": "第一步"
+  },
+  "Step 2": {
+    "zh-cn": "第二步",
+    "ko": "단계 2",
+    "zh": "第二步"
+  },
+  "Step 3": {
+    "zh-cn": "第三步",
+    "ko": "단계 3",
+    "zh": "第三步"
+  },
+  "Step 4": {
+    "zh-cn": "第四步",
+    "ko": "단계 4",
+    "zh": "第四步"
+  },
+  "Over 1 Billion Address Labels & 100K Entities": {
+    "zh-cn": "超过10亿地址标签和10万实体",
+    "ko": "10억 개 이상의 주소 라벨 & 10만 개의 엔터티",
+    "zh": "超過10億地址標籤和10萬實體"
+  },
+  "Intelligent Analysis & Modeling with AI technology": {
+    "zh-cn": "利用人工智能技术进行智能分析和建模",
+    "ko": "AI 기술을 사용한 지능형 분석 및 모델링",
+    "zh": "利用人工智慧技術進行智能分析和建模"
+  },
+  "Easy-to-use Interface & API": {
+    "zh-cn": "简单易用的界面和API",
+    "ko": "사용하기 쉬운 인터페이스 및 API",
+    "zh": "簡單易用的介面和API"
+  },
+  "Project Explorer": {
+    "zh-cn": "项目浏览器",
+    "ko": "프로젝트 탐색기",
+    "zh": "專案流覽器"
+  },
+  "Allows users to search and explore the security status of blockchain projects in the system, discover the hottest projects with the highest market cap, learn the latest security news and alerts, and find the recently added projects.": {
+    "zh-cn": "允许用户搜索和浏览系统中区块链项目的安全状态，发现最热门、市值最高的项目，了解最新的安全新闻和预警，查找最近添加的项目。",
+    "ko": "시스템에서 블록체인 프로젝트의 보안 상태를 검색하고 탐색할 수 있게 해주며, 시가 총액이 가장 높은 인기 프로젝트를 찾아내고, 최신 보안 뉴스와 알림을 확인하고, 최근 추가된 프로젝트를 찾을 수 있습니다.",
+    "zh": "允許用戶搜索和流覽系統中區塊鏈專案的安全狀態，發現最熱門、市值最高的專案，瞭解最新的安全新聞和預警，查找最近添加的專案。"
+  },
+  "Users can find project details which include security scores for the past 30 days, token market trends and volatilities, distribution of the tokens, identified risk transactions, liquidity pair information, social media followers, audit status with reports, and other project information from the white paper, location of the source code, to the official website, etc.": {
+    "zh-cn": "用户可以找到项目详细信息，包括过去30天的安全评分、代币市场趋势和波动性、代币的分布、已识别的风险交易、流动性交易对的信息、社交媒体关注者、审计状态和报告，以及白皮书、源代码位置、官方网站等其它项目信息。",
+    "ko": "사용자는 프로젝트 세부 정보를 찾을 수 있으며, 이에는 지난 30일 동안의 보안 점수, 토큰 시장 동향 및 변동성, 토큰 분배, 확인된 위험 거래, 유동성 페어 정보, 소셜 미디어 팔로워, 보고서가 포함된 감사 상태, 그리고 백서, 소스 코드 위치, 공식 웹사이트 등의 다른 프로젝트 정보가 포함됩니다.",
+    "zh": "用戶可以找到專案詳細資訊，包括過去30天的安全評分、代幣市場趨勢和波動性、代幣的分佈、已識別的風險交易、流動性交易對的資訊、社交媒體關注者、審計狀態和報告，以及白皮書、源代碼位置、官方網站等其他專案資訊。"
+  },
+  "Security Score": {
+    "zh-cn": "安全评分",
+    "ko": "보안 점수",
+    "zh": "安全評分"
+  },
+  "Leveraging Big Data and AI, EagleEye assesses each project daily with a security score based on 5-dimensional on-chain and off-chain data, including the project’s security audit results, risk transaction frequency and severity,decentralization, market volatility, governance and transparency.": {
+    "zh-cn": "利用大数据和人工智能，EagleEye每天根据5维链上和链下数据对每个项目进行安全评分，包括项目的安全审计结果、风险交易频率和严重程度、去中心化、市场波动性、治理和透明度。",
+    "ko": "빅 데이터와 AI를 활용하여, EagleEye는 프로젝트의 보안 감사 결과, 위험 거래 빈도 및 심각도, 분산성, 시장 변동성, 거버넌스 및 투명성을 포함한 5차원 체인 내 및 체인 외 데이터를 기반으로 매일 각 프로젝트에 대한 보안 점수를 평가합니다.",
+    "zh": "利用大數據和人工智慧，EagleEye每天根據5維鏈上和鏈下數據對每個專案進行安全評分，包括專案的安全審計結果、風險交易頻率和嚴重程度、去中心化、市場波動性、治理和透明度。"
+  },
+  "Risky Transactions": {
+    "zh-cn": "风险交易",
+    "ko": "위험 거래",
+    "zh": "風險交易"
+  },
+  "Users can search and explore risk transactions identified in the system by a transaction hash or wallet address.": {
+    "zh-cn": "用户可以通过交易哈希或钱包地址搜索和查看系统中已识别的风险交易。",
+    "ko": "사용자는 거래 해시 또는 지갑 주소를 통해 시스템에서 확인된 위험 거래를 검색하고 탐색할 수 있습니다.",
+    "zh": "用戶可以通過交易哈希或錢包地址搜索和查看系統中已識別的風險交易。"
+  },
+  "Search results can be filtered further by blockchain type, risk type, and alert level.": {
+    "zh-cn": "可以根据区块链类型、风险类型和预警级别进一步过滤搜索结果。",
+    "ko": "검색 결과는 블록체인 유형, 위험 유형 및 경보 수준별로 추가로 필터링할 수 있습니다.",
+    "zh": "可以根據區塊鏈類型、風險類型和預警級別進一步過濾搜索結果。"
+  },
+  "The system displays the risk type and severity level identified with each transaction. Currently, the system can identify risks associated with the privileged operation, flash loan, ownership transfer, and large abnormal outflow.": {
+    "zh-cn": "系统会显示每笔交易的风险类型和严重程度。目前，该系统可以识别与权限操作、闪电贷、所有权转让和大量异常流出相关的风险。",
+    "ko": "시스템은 각 거래와 관련된 위험 유형 및 심각도 수준을 표시합니다. 현재 시스템은 특권 작업, 플래시 대출, 소유권 이전 및 대규모 비정상 유출과 관련된 위험을 식별할 수 있습니다.",
+    "zh": "系統會顯示每筆交易的風險類型和嚴重程度。目前，該系統可以識別與許可權操作、閃電貸、所有權轉讓和大量異常流出相關的風險。"
+  },
+  "Address Monitoring": {
+    "zh-cn": "地址监控",
+    "ko": "주소 모니터링",
+    "zh": "地址監控"
+  },
+  "Define any wallet addresses to be monitored for potential risks.": {
+    "zh-cn": "定义需监控的钱包地址以防范潜在风险。",
+    "ko": "잠재적 위험을 모니터링할 지갑 주소를 정의합니다.",
+    "zh": "定義需監控的錢包地址以防範潛在風險。"
+  },
+  "Notify users in real-time 24by7 when risks are identified.": {
+    "zh-cn": "当发现风险时，7*24全天候实时通知用户。",
+    "ko": "위험이 확인되면 실시간으로 24시간 사용자에게 알립니다.",
+    "zh": "當發現風險時，7*24全天候即時通知用戶。"
+  },
+  "Security Sentiment": {
+    "zh-cn": "安全情绪",
+    "ko": "보안 센티먼트",
+    "zh": "安全情緒"
+  },
+  "EagleEye compiles the latest security sentiment from numerous reputable websites and influential social media accounts to help users quickly and easily access and learn security events in the blockchain ecosystem from a single place.": {
+    "zh-cn": "EagleEye从众多知名网站和有影响力的社交媒体账户中收集最新的安全情绪，帮助用户从一个平台快速轻松地访问和了解区块链生态系统中的安全事件。",
+    "ko": "EagleEye는 다양한 신뢰할 수 있는 웹사이트와 영향력 있는 소셜 미디어 계정에서 최신 보안 센티먼트를 수집하여 사용자가 블록체인 생태계의 보안 이벤트를 한 곳에서 빠르고 쉽게 접근하고 배울 수 있도록 돕습니다.",
+    "zh": "EagleEye從眾多知名網站和有影響力的社交媒體帳戶中收集最新的安全情緒，幫助用戶從一個平臺快速輕鬆地訪問和瞭解區塊鏈生態系統中的安全事件。"
+  },
+  "Securing Blockchain Ecosystem": {
+    "zh-cn": "保护区块链生态系统",
+    "ko": "블록체인 생태계 보안",
+    "zh": "保護區塊鏈生態系統"
+  },
+  "Beosin VaaS": {
+    "zh-cn": "Beosin VaaS",
+    "ko": "Beosin VaaS",
+    "zh": "Beosin VaaS"
+  },
+  "Improve the security of smart contracts for developers": {
+    "zh-cn": "为开发者提高智能合约的安全性",
+    "ko": "개발자를 위한 스마트 계약의 보안 개선",
+    "zh": "為開發者提高智能合約的安全性"
+  },
+  "Beosin EagleEye": {
+    "zh-cn": "Beosin EagleEye",
+    "ko": "Beosin EagleEye",
+    "zh": "Beosin EagleEye"
+  },
+  "Security Assessment, Risk Transactions Identification, and Security Sentiment.": {
+    "zh-cn": "安全评估、风险交易识别和安全情绪。",
+    "ko": "보안 평가, 위험 거래 식별 및 보안 센티먼트.",
+    "zh": "安全評估、風險交易識別和安全情緒。"
+  },
+  "Help users track the flow of Crypto Assets, monitor suspicious addresses, and assist in recovering assets on the chain.": {
+    "zh-cn": "帮助用户追踪加密资产的流向，监控可疑地址，并协助追回链上资产。",
+    "ko": "사용자가 암호화 자산의 흐름을 추적하고 의심스러운 주소를 모니터링하며 체인 상의 자산 회수를 돕습니다.",
+    "zh": "幫助用戶追蹤加密資產的流向，監控可疑地址，並協助追回鏈上資產。"
+  },
+  "Provide security auditing services in blockchains, smart contracts, and apps with Formal Verification and comprehensive Cybersecurity techniques.": {
+    "zh-cn": "通过形式化验证和全面的网络安全技术，为区块链、智能合约和应用程序提供安全审计服务。",
+    "ko": "블록체인, 스마트 계약 및 앱에서 공식 검증 및 종합적인 사이버 보안 기술을 사용하여 보안 감사 서비스를 제공합니다.",
+    "zh": "通過形式化驗證和全面的網路安全技術，為區塊鏈、智能合約和應用程式提供安全審計服務。"
+  },
+  "Security experts 40+ PhDs": {
+    "zh-cn": "安全专家 40+位博士",
+    "ko": "보안 전문가 40+ 박사",
+    "zh": "安全專家 40+位博士"
+  },
+  "Years of cybersecurity experience": {
+    "zh-cn": "多年的网络安全经验",
+    "ko": "사이버 보안 경력",
+    "zh": "多年的網路安全經驗"
+  },
+  "Advanced Technologies": {
+    "zh-cn": "先进的技术",
+    "ko": "고급 기술",
+    "zh": "先進的技術"
+  },
+  "Onchain AI Data Analysis & Formal Verification Technology": {
+    "zh-cn": "链上AI数据分析和形式化验证技术",
+    "ko": "체인상 AI 데이터 분석 및 공식 검증 기술",
+    "zh": "鏈上AI數據分析和形式化驗證技術"
+  },
+  "1Billion+": {
+    "zh-cn": "10亿+",
+    "ko": "10억+",
+    "zh": "10億+"
+  },
+  "Billion+": {
+    "zh-cn": "0亿+",
+    "ko": "0억+",
+    "zh": "0億+"
+  },
+  "Labeled crypto addresses": {
+    "zh-cn": "已标记的钱包地址",
+    "ko": "레이블이 부착된 암호화 주소",
+    "zh": "已標記的錢包地址"
+  },
+  "Identified code vulnerabilities": {
+    "zh-cn": "已识别的代码漏洞",
+    "ko": "식별된 코드 취약점",
+    "zh": "已識別的代碼漏洞"
+  },
+  "Beosin Alert": {
+    "zh-cn": "Beosin Alert",
+    "ko": "Beosin Alert",
+    "zh": "Beosin Alert"
+  },
+  "See more": {
+    "zh-cn": "查看更多",
+    "ko": "더보기",
+    "zh": "查看更多"
+  },
+  "Audited Projects": {
+    "zh-cn": "已审计的项目",
+    "ko": "감사된 프로젝트",
+    "zh": "已審計的專案"
+  },
+  "Beosin has audited more than 3,000+ smart contract projects and assisted project parties in discovering and fixing more than 1,000 medium to high-risk security vulnerabilities. These projects come from Ethereum, EVM-compatible chains, Solana, Near, EOS, aelf, and other blockchain platforms. Beosin audits the smart contract in 3 categories: Coding Conventions, General Vulnerability, and Business Security. Combining the results from automated formal verification and manual code review by security experts, Beosin can precisely identify the security problems in smart contracts and assist the project party in fixing them to avoid crypto loss.": {
+    "zh-cn": "Beosin审计了超过3000个智能合约项目，协助项目方发现并修复了1000多个中高风险安全漏洞。这些项目来自以太坊、EVM兼容链、Solana、Near、EOS、aelf和其他区块链平台。Beosin从3个方面对智能合约进行审计：编码规范、一般漏洞和业务安全。结合自动形式化验证和安全专家人工代码审查的结果，Beosin可以准确识别智能合约中的安全问题，并协助项目方修复这些问题，避免资产损失。",
+    "ko": "Beosin은 3,000개 이상의 스마트 계약 프로젝트를 감사하고 프로젝트 당사자들이 중간에서 고위험 보안 취약점 1,000개 이상을 발견하고 수정하는데 도움을 주었습니다. 이 프로젝트들은 이더리움, EVM 호환 체인, 솔라나, 니어, 이오스, aelf 및 기타 블록체인 플랫폼에서 비롯됩니다. Beosin은 스마트 계약을 3 가지 범주로 감사합니다: 코딩 규칙, 일반 취약점 및 비즈니스 보안. 자동 공식 검증 결과와 보안 전문가에 의한 수동 코드 검토를 결합하여 Beosin은 스마트 계약의 보안 문제를 정확하게 식별하고 프로젝트 당사자가 암호화 손실을 피하기 위해 이를 수정하는 데 도움을 줄 수 있습니다.",
+    "zh": "Beosin審計了超過3000個智能合約專案，協助專案方發現並修復了1000多個中高風險安全漏洞。這些專案來自以太坊、EVM相容鏈、Solana、Near、EOS、aelf和其他區塊鏈平臺。Beosin從3個方面對智能合約進行審計：編碼規範、一般漏洞和業務安全。結合自動形式化驗證和安全專家人工代碼審查的結果，Beosin可以準確識別智能合約中的安全問題，並協助專案方修復這些問題，避免資產損失。"
+  },
+  "NFT Contract": {
+    "zh-cn": "NFT合约",
+    "ko": "NFT 계약",
+    "zh": "NFT合約"
+  },
+  "DeFi Contracts": {
+    "zh-cn": "DeFi合约",
+    "ko": "DeFi 계약",
+    "zh": "DeFi合約"
+  },
+  "GameFi Contract": {
+    "zh-cn": "GameFi合约",
+    "ko": "GameFi 계약",
+    "zh": "GameFi合約"
+  },
+  "Tokens Contracts": {
+    "zh-cn": "代币合约",
+    "ko": "토큰 계약",
+    "zh": "代幣合約"
+  },
+  "Other Customized Smart Contracts": {
+    "zh-cn": "其它定制化的合约",
+    "ko": "기타 맞춤형 스마트 계약",
+    "zh": "其他定制化的合約"
+  },
+  "Coding Security Audit": {
+    "zh-cn": "代码安全审计",
+    "ko": "코딩 보안 감사",
+    "zh": "代碼安全審計"
+  },
+  "Consensus Security Audit": {
+    "zh-cn": "共识安全审计",
+    "ko": "합의 보안 감사",
+    "zh": "共識安全審計"
+  },
+  "Account System Security Audit": {
+    "zh-cn": "账户系统安全审计",
+    "ko": "계정 시스템 보안 감사",
+    "zh": "帳戶系統安全審計"
+  },
+  "Application-layer Security Audit": {
+    "zh-cn": "应用层安全审计",
+    "ko": "응용 계층 보안 감사",
+    "zh": "應用層安全審計"
+  },
+  "Beosin offers a comprehensive audit service of Layer 1 and Layer 2 blockchain platforms with three options. They are Black Box, Grey Box, and White Box audits. The audit covers all aspects of platform architecture and functionalities, including block production, node communication, consensus algorithm, and governance logic. The audit report includes recommendations on fixing identified issues.": {
+    "zh-cn": "Beosin提供一层和二层区块链平台的全面审计服务。有三种审计方式，它们是黑盒、灰盒和白盒审计。审计涵盖了平台架构和功能的所有方面，包括区块产出、节点通信、共识算法和治理逻辑。审计报告包括关于解决已发现漏洞的建议。",
+    "ko": "Beosin은 Layer 1 및 Layer 2 블록체인 플랫폼의 종합적인 감사 서비스를 세 가지 옵션으로 제공합니다. 블랙 박스, 그레이 박스, 화이트 박스 감사입니다. 감사는 블록 생성, 노드 통신, 합의 알고리즘 및 거버넌스 로직을 포함한 플랫폼 아키텍처와 기능의 모든 측면을 다룹니다. 감사 보고서에는 확인된 문제를 해결하는 데 대한 권고사항이 포함되어 있습니다.",
+    "zh": "Beosin提供一層和二層區塊鏈平臺的全面審計服務。有三種審計方式，它們是黑盒、灰盒和白盒審計。審計涵蓋了平臺架構和功能的所有方面，包括區塊產出、節點通信、共識演算法和治理邏輯。審計報告包括關於解決已發現漏洞的建議。"
+  },
+  "Beosin Cryptocurrency Tracing service helps clients prevent cryptocurrency threats such as scams, ransom, assets transferred into Tornado Cash, and other security incidents and theft cases.": {
+    "zh-cn": "Beosin加密货币追踪服务帮助客户避免受到加密货币相关的威胁，如诈骗，赎金，资产被转移到Tornado Cash以及其他安全事件和盗窃案件。",
+    "ko": "Beosin 암호화폐 추적 서비스는 사기, 몸값, Tornado Cash로 이체된 자산 등 암호화폐 위협 및 기타 보안 사고 및 절도 사건을 예방하는 데 도움이 됩니다.",
+    "zh": "Beosin加密貨幣追蹤服務幫助客戶避免受到加密貨幣相關的威脅，如詐騙，贖金，資產被轉移到Tornado Cash以及其他安全事件和盜竊案件。"
+  },
+  "VaaS (Verification-as-a-Service)": {
+    "zh-cn": "VaaS（验证即服务）",
+    "ko": "VaaS (검증-서비스)",
+    "zh": "VaaS（驗證即服務）"
+  },
+  "The industry-leading security smart contract verification platform can automatically discover known and unknown vulnerabilities and business logic issues in smart contracts and provide professional recommendations for fixing problems. It applies multi-dimensional detection capabilities, including static scanning, fuzzy testing, and formal verification technologies.": {
+    "zh-cn": "业界领先的智能合约验证平台，可以自动发现智能合约中已知和未知的漏洞和业务逻辑问题，并提供专业的修复建议。它应用了多维检测能力，包括静态扫描、模糊测试和形式化验证技术。",
+    "ko": "산업 최고의 보안 스마트 계약 검증 플랫폼은 스마트 계약의 알려진 및 알려지지 않은 취약점과 비즈니스 로직 문제를 자동으로 발견하고 문제 해결을 위한 전문적인 권고를 제공할 수 있습니다. 정적 스캔, 퍼지 테스트 및 공식 검증 기술을 포함한 다양한 차원의 탐지 능력을 적용합니다.",
+    "zh": "業界領先的智能合約驗證平臺，可以自動發現智能合約中已知和未知的漏洞和業務邏輯問題，並提供專業的修復建議。它應用了多維檢測能力，包括靜態掃描、模糊測試和形式化驗證技術。"
+  },
+  "EagleEye provides 24by7 blockchain security monitoring and notification services. It sends customers real-time security alerts and warnings when it detects risks like hacker attacks, frauds, flash loans, rug pulls through on-chain and off-chain data analysis, and multi-dimensional security assessments.": {
+    "zh-cn": "EagleEye提供7x24区块链安全监控和通知服务。它通过链上和链下数据分析以及多维安全评估，在检测到黑客攻击、欺诈、闪电贷、跑路等风险时，向客户发送实时安全警报。",
+    "ko": "EagleEye는 24시간 블록체인 보안 모니터링 및 알림 서비스를 제공합니다. 체인상 및 체인외 데이터 분석 및 다차원 보안 평가를 통해 해커 공격, 사기, 플래시 로앤, 러그 풀과 같은 위험을 감지할 때 고객에게 실시간 보안 경고 및 경고를 보냅니다.",
+    "zh": "EagleEye提供7x24區塊鏈安全監控和通知服務。它通過鏈上和鏈下數據分析以及多維安全評估，在檢測到駭客攻擊、欺詐、閃電貸、跑路等風險時，向客戶發送即時安全警報。"
+  },
+  "Serving Global Customers": {
+    "zh-cn": "服务全球客户",
+    "ko": "전 세계 고객에게 서비스 제공",
+    "zh": "服務全球客戶"
+  },
+  "Security Audit Now Supports MOVE": {
+    "zh-cn": "安全审计现在支持 MOVE",
+    "ko": "이제 보안 감사에서 MOVE 지원",
+    "zh": "安全審計現在支持 MOVE"
+  },
+  "Using static code detection, manual code review, automated testing and analysis, and move prover formal verification to conduct a full-scope security audit for Move smart contracts": {
+    "zh-cn": "使用静态代码检测、手动代码审查、自动化测试和分析以及move prover形式化验证，对Move智能合约进行全面的安全审计",
+    "ko": "정적 코드 탐지, 수동 코드 검토, 자동 테스트 및 분석 및 이동 프로버 공식 검증을 사용하여 Move 스마트 계약의 전 범위 보안 감사를 수행",
+    "zh": "使用靜態代碼檢測、手動代碼審查、自動化測試和分析以及move prover形式化驗證，對Move智能合約進行全面的安全審計"
+  },
+  "Known Vulnerabilities": {
+    "zh-cn": "已知漏洞",
+    "ko": "알려진 취약점",
+    "zh": "已知漏洞"
+  },
+  "Unknown Vulnerabilities": {
+    "zh-cn": "未知漏洞",
+    "ko": "알려지지 않은 취약점",
+    "zh": "未知漏洞"
+  },
+  "Logical Correctness": {
+    "zh-cn": "逻辑正确性",
+    "ko": "논리적 정확성",
+    "zh": "邏輯正確性"
+  },
+  "Support for Multiple Blockchain Platforms": {
+    "zh-cn": "支持多个区块链平台",
+    "ko": "여러 블록체인 플랫폼 지원",
+    "zh": "支持多個區塊鏈平臺"
+  },
+  "Transaction Risk Detection": {
+    "zh-cn": "交易风险检测",
+    "ko": "거래 위험 감지",
+    "zh": "交易風險檢測"
+  },
+  "Contract Risk Identification": {
+    "zh-cn": "合约风险识别",
+    "ko": "계약 위험 식별",
+    "zh": "合約風險識別"
+  },
+  "Threat Intelligence Collection": {
+    "zh-cn": "威胁智能收集",
+    "ko": "위협 정보 수집",
+    "zh": "威脅智能收集"
+  },
+  "Project Operation Dashboard": {
+    "zh-cn": "项目运行面板",
+    "ko": "프로젝트 운영 대시보드",
+    "zh": "專案運行面板"
+  },
+  "Please select Requirement": {
+    "zh-cn": "请选择需求",
+    "ko": "요구 사항 선택",
+    "zh": "請選擇需求"
+  },
+  "Please input your project name": {
+    "zh-cn": "请输入你的项目名称",
+    "ko": "프로젝트 이름 입력",
+    "zh": "請輸入你的專案名稱"
+  },
+  "Please enter your email": {
+    "zh-cn": "请输入你的邮箱",
+    "ko": "이메일 입력",
+    "zh": "請輸入你的郵箱"
+  },
+  "Invalid email address": {
+    "zh-cn": "无效邮箱地址",
+    "ko": "잘못된 이메일 주소",
+    "zh": "無效郵箱地址"
+  },
+  "Please input your contact": {
+    "zh-cn": "请输入你的联系方式",
+    "ko": "연락처 입력",
+    "zh": "請輸入你的聯繫方式"
+  },
+  "Please select your organization": {
+    "zh-cn": "请选择你的组织",
+    "ko": "조직 선택",
+    "zh": "請選擇你的組織"
+  },
+  "Please select your country": {
+    "zh-cn": "请选择你的国家",
+    "ko": "국가 선택",
+    "zh": "請選擇你的國家"
+  },
+  "Please enter the verification code": {
+    "zh-cn": "请输入验证码",
+    "ko": "인증 코드 입력",
+    "zh": "請輸入驗證碼"
+  },
+  "option success!": {
+    "zh-cn": "选择成功！",
+    "ko": "옵션 성공!",
+    "zh": "選擇成功！"
+  },
+  "Smart contract security solution": {
+    "zh-cn": "智能合约安全解决方案",
+    "ko": "스마트 계약 보안 솔루션",
+    "zh": "智能合約安全解決方案"
+  },
+  "Compliance solution": {
+    "zh-cn": "合规解决方案",
+    "ko": "준수 솔루션",
+    "zh": "合規解決方案"
+  },
+  "Other": {
+    "zh-cn": "其它",
+    "ko": "기타",
+    "zh": "其他"
+  },
+  "Cryptocurrency Business": {
+    "zh-cn": "加密货币业务",
+    "ko": "암호화폐 비즈니스",
+    "zh": "加密貨幣業務"
+  },
+  "Government": {
+    "zh-cn": "政府",
+    "ko": "정부",
+    "zh": "政府"
+  },
+  "Financial Institution": {
+    "zh-cn": "金融机构",
+    "ko": "금융 기관",
+    "zh": "金融機構"
+  },
+  "Products": {
+    "zh-cn": "产品",
+    "ko": "제품",
+    "zh": "產品"
+  },
+  "verification code": {
+    "zh-cn": "验证码",
+    "ko": "인증 코드",
+    "zh": "驗證碼"
+  },
+  "Verification Code": {
+    "zh-cn": "验证码",
+    "ko": "인증 코드",
+    "zh": "驗證碼"
+  },
+  "Please Select": {
+    "zh-cn": "请选择",
+    "ko": "선택",
+    "zh": "請選擇"
+  },
+  "Country": {
+    "zh-cn": "国家",
+    "ko": "국가",
+    "zh": "國家"
+  },
+  "Results": {
+    "zh-cn": "结果",
+    "ko": "결과",
+    "zh": "結果"
+  },
+  "Query no results": {
+    "zh-cn": "查询无结果",
+    "ko": "결과 없음 조회",
+    "zh": "查詢無結果"
+  },
+  "please enter verification code": {
+    "zh-cn": "请输入验证码",
+    "ko": "인증 코드 입력",
+    "zh": "請輸入驗證碼"
+  },
+  "Personal Center": {
+    "zh-cn": "个人中心",
+    "ko": "개인 센터",
+    "zh": "個人中心"
+  },
+  "Log Out": {
+    "zh-cn": "登出",
+    "ko": "로그아웃",
+    "zh": "登出"
+  },
+  "Audit Reports": {
+    "zh-cn": "审计报告",
+    "ko": "감사 보고서",
+    "zh": "審計報告"
+  },
+  "Language Feature Security": {
+    "zh-cn": "语言特点安全",
+    "ko": "언어 기능 보안",
+    "zh": "語言特點安全"
+  },
+  "Third-party library security": {
+    "zh-cn": "第三方库安全",
+    "ko": "제3자 라이브러리 보안",
+    "zh": "第三方庫安全"
+  },
+  "Hardware resource consumption": {
+    "zh-cn": "硬件资源消耗",
+    "ko": "하드웨어 리소스 소비",
+    "zh": "硬體資源消耗"
+  },
+  "Exception handling": {
+    "zh-cn": "异常处理",
+    "ko": "예외 처리",
+    "zh": "異常處理"
+  },
+  "Arithmetic operations": {
+    "zh-cn": "数学运算",
+    "ko": "산술 연산",
+    "zh": "數學運算"
+  },
+  "Code injection": {
+    "zh-cn": "代码注入",
+    "ko": "코드 인젝션",
+    "zh": "代碼注入"
+  },
+  "Thread safety": {
+    "zh-cn": "线程安全",
+    "ko": "스레드 안전성",
+    "zh": "線程安全"
+  },
+  "RPC security": {
+    "zh-cn": "RPC安全",
+    "ko": "RPC 보안",
+    "zh": "RPC安全"
+  },
+  "Permissions of RPC sensitive interface": {
+    "zh-cn": "RPC敏感接口权限",
+    "ko": "RPC 민감 인터페이스 권한",
+    "zh": "RPC敏感介面許可權"
+  },
+  "Traditional Web security": {
+    "zh-cn": "传统网络安全",
+    "ko": "전통적인 웹 보안",
+    "zh": "傳統網路安全"
+  },
+  "RPC implementation security": {
+    "zh-cn": "RPC实现安全",
+    "ko": "RPC 구현 보안",
+    "zh": "RPC實現安全"
+  },
+  "Wallets and accounts security": {
+    "zh-cn": "钱包与账户安全",
+    "ko": "지갑 및 계정 보안",
+    "zh": "錢包與帳戶安全"
+  },
+  "Distributed key generation algorithm": {
+    "zh-cn": "分布式密钥生成算法",
+    "ko": "분산 키 생성 알고리즘",
+    "zh": "分佈式密鑰生成演算法"
+  },
+  "Distributed key storage security": {
+    "zh-cn": "分布式密钥存储安全",
+    "ko": "분산 키 저장 보안",
+    "zh": "分佈式密鑰存儲安全"
+  },
+  "Distributed key usage security": {
+    "zh-cn": "分布式密钥使用安全",
+    "ko": "분산 키 사용 보안",
+    "zh": "分佈式密鑰使用安全"
+  },
+  "Transaction model security": {
+    "zh-cn": "交易模型安全",
+    "ko": "거래 모델 보안",
+    "zh": "交易模型安全"
+  },
+  "Transaction processing logic": {
+    "zh-cn": "交易处理逻辑",
+    "ko": "거래 처리 로직",
+    "zh": "交易處理邏輯"
+  },
+  "Transaction fee": {
+    "zh-cn": "交易费用",
+    "ko": "거래 수수료",
+    "zh": "交易費用"
+  },
+  "Transaction replay": {
+    "zh-cn": "交易重放",
+    "ko": "거래 반복",
+    "zh": "交易重放"
+  },
+  "Double-spending": {
+    "zh-cn": "重复支付",
+    "ko": "이중 지불",
+    "zh": "重複支付"
+  },
+  "Transaction signature": {
+    "zh-cn": "交易签名",
+    "ko": "거래 서명",
+    "zh": "交易簽名"
+  },
+  "Cross-chain interaction security": {
+    "zh-cn": "跨链交互安全",
+    "ko": "크로스 체인 상호 작용 보안",
+    "zh": "跨鏈交互安全"
+  },
+  "Block processing": {
+    "zh-cn": "区块处理",
+    "ko": "블록 처리",
+    "zh": "區塊處理"
+  },
+  "Block synchronization logic": {
+    "zh-cn": "区块同步逻辑",
+    "ko": "블록 동기화 로직",
+    "zh": "區塊同步邏輯"
+  },
+  "Block signature": {
+    "zh-cn": "区块签名",
+    "ko": "블록 서명",
+    "zh": "區塊簽名"
+  },
+  "Merkle tree root construction": {
+    "zh-cn": "默克尔树根构建",
+    "ko": "머클 트리 루트 구성",
+    "zh": "默克爾樹根構建"
+  },
+  "Consensus mechanism design": {
+    "zh-cn": "共识机制设计",
+    "ko": "합의 메커니즘 디자인",
+    "zh": "共識機制設計"
+  },
+  "Consensus mechanism implementation": {
+    "zh-cn": "共识机制实现",
+    "ko": "합의 메커니즘 구현",
+    "zh": "共識機制實現"
+  },
+  "Incentive mechanism design": {
+    "zh-cn": "激励机制设计",
+    "ko": "인센티브 메커니즘 디자인",
+    "zh": "激勵機制設計"
+  },
+  "P2P communication security": {
+    "zh-cn": "点对点通信安全",
+    "ko": "P2P 통신 보안",
+    "zh": "點對點通信安全"
+  },
+  "Occupancy of connection counts": {
+    "zh-cn": "占用连接数",
+    "ko": "연결 수 점유",
+    "zh": "佔用連接數"
+  },
+  "Node discovery algorithm": {
+    "zh-cn": "节点发现算法",
+    "ko": "노드 발견 알고리즘",
+    "zh": "節點發現演算法"
+  },
+  "Node communication protocol": {
+    "zh-cn": "节点通信算法",
+    "ko": "노드 통신 프로토콜",
+    "zh": "節點通信演算法"
+  },
+  "Routing table contamination": {
+    "zh-cn": "路由表污染",
+    "ko": "라우팅 테이블 오염",
+    "zh": "路由表污染"
+  },
+  "Traffic size limitation": {
+    "zh-cn": "流量大小限制",
+    "ko": "트래픽 크기 제한",
+    "zh": "流量大小限制"
+  },
+  "Communication encryption": {
+    "zh-cn": "通信加密",
+    "ko": "통신 암호화",
+    "zh": "通信加密"
+  },
+  "Node penalty mechanism": {
+    "zh-cn": "节点惩处机制",
+    "ko": "노드 패널티 메커니즘",
+    "zh": "節點懲處機制"
+  },
+  "Eclipse Attack": {
+    "zh-cn": "日蚀攻击",
+    "ko": "일식 공격",
+    "zh": "日蝕攻擊"
+  },
+  "Sybil Attack": {
+    "zh-cn": "女巫攻击",
+    "ko": "실빌 공격",
+    "zh": "女巫攻擊"
+  },
+  "Cryptographic Security": {
+    "zh-cn": "密码安全",
+    "ko": "암호화 보안",
+    "zh": "密碼安全"
+  },
+  "Cryptographic algorithm implementation/usage": {
+    "zh-cn": "密码算法实现/使用",
+    "ko": "암호화 알고리즘 구현/사용",
+    "zh": "密碼演算法實現/使用"
+  },
+  "Historical vulnerability detection": {
+    "zh-cn": "历史漏洞检测",
+    "ko": "역사적 취약점 검출",
+    "zh": "歷史漏洞檢測"
+  },
+  "Security vulnerability audit": {
+    "zh-cn": "安全漏洞审计",
+    "ko": "보안 취약점 감사",
+    "zh": "安全漏洞審計"
+  },
+  "Static code security": {
+    "zh-cn": "静态代码安全",
+    "ko": "정적 코드 보안",
+    "zh": "靜態代碼安全"
+  },
+  "Timeout protection": {
+    "zh-cn": "超时保护",
+    "ko": "타임아웃 보호",
+    "zh": "超時保護"
+  },
+  "Gerry Cooper": {
+    "zh-cn": "格里·库珀",
+    "ko": "Gerry Cooper",
+    "zh": "格裏·庫珀"
+  },
+  "Robert Parsons": {
+    "zh-cn": "罗伯特·帕森斯",
+    "ko": "Robert Parsons",
+    "zh": "羅伯特·帕森斯"
+  },
+  "Sophie Dennis": {
+    "zh-cn": "苏菲·丹尼斯",
+    "ko": "Sophie Dennis",
+    "zh": "蘇菲·丹尼斯"
+  },
+  "Anthony Davis": {
+    "zh-cn": "安东尼·戴维斯",
+    "ko": "Anthony Davis",
+    "zh": "安東尼·戴維斯"
+  },
+  "Beosin has a professional audit technical team, which is really to our surprise.": {
+    "zh-cn": "Beosin拥有专业的审计技术团队，他们的专业程度着实让我们大吃一惊。",
+    "ko": "Beosin은 전문 감사 기술 팀을 보유하고 있어, 정말 놀랍습니다.",
+    "zh": "Beosin擁有專業的審計技術團隊，他們的專業程度著實讓我們大吃一驚。"
+  },
+  "Compared to other security audit teams, Beosin is an exciting team, not only provides professional technical audit services, but also empowered by security audit products.": {
+    "zh-cn": "与其他安全审计团队相比，Beosin是一个令人兴奋的团队，不仅提供专业的技术审计服务，而且还提供安全审计产品的授权。",
+    "ko": "다른 보안 감사 팀에 비해 Beosin은 흥미진진한 팀으로, 전문 기술 감사 서비스를 제공할 뿐만 아니라 보안 감사 제품으로 강화되었습니다.",
+    "zh": "與其他安全審計團隊相比，Beosin是一個令人興奮的團隊，不僅提供專業的技術審計服務，而且還提供安全審計產品的授權。"
+  },
+  "Attitude. Yes, that's the word. Beosin has a professional service attitude and leading technology. They take every project very seriously. The business consultant is nice and professional. Always available to us, which is very reassuring.": {
+    "zh-cn": "态度。是的，就是这个词。Beosin拥有专业的服务态度和领先的技术。他们非常认真地对待每一个项目。他们商务顾问非常好，也很专业。我们随时可以联系到他们，这很让人放心。",
+    "ko": "태도. 그게 바로 단어입니다. Beosin은 전문적인 서비스 태도와 선도적인 기술을 갖추고 있습니다. 모든 프로젝트를 매우 진지하게 다룹니다. 비즈니스 컨설턴트는 친절하고 전문적입니다. 항상 우리에게 도움이 되어 안심이 됩니다.",
+    "zh": "態度。是的，就是這個詞。Beosin擁有專業的服務態度和領先的技術。他們非常認真地對待每一個專案。他們商務顧問非常好，也很專業。我們隨時可以聯繫到他們，這很讓人放心。"
+  },
+  "Ecosystem Users": {
+    "zh-cn": "生态系统用户",
+    "ko": "생태계 사용자",
+    "zh": "生態系統用戶"
+  },
+  "They are highly efficient, and can work well with the project launch schedule. We will also actively work with them to fix every issue they raise in a timely manner.": {
+    "zh-cn": "他们效率很高，可以很好地配合项目的启动时间。我们也将积极配合他们，及时解决他们提出的每一个问题。",
+    "ko": "그들은 매우 효율적이며 프로젝트 출시 일정과 잘 조화를 이룰 수 있습니다. 또한 제기된 모든 문제를 신속하게 해결하기 위해 적극적으로 그들과 협력할 것입니다.",
+    "zh": "他們效率很高，可以很好地配合專案的啟動時間。我們也將積極配合他們，及時解決他們提出的每一個問題。"
+  },
+  "Beosin focuses on blockchain ecosystem security, and their products and services are just fantastic. They are able to provide security audits and defense deployments for global exchanges, wallets and smart contracts.": {
+    "zh-cn": "Beosin专注于区块链生态系统的安全，他们的产品和服务非常棒。他们能够为全球交易所、钱包和智能合约提供安全审计和防御部署。",
+    "ko": "Beosin은 블록체인 생태계 보안에 중점을 두고 있으며, 그들의 제품과 서비스는 단순히 훌륭합니다. 글로벌 거래소, 지갑 및 스마트 계약에 대한 보안 감사 및 방어 배치를 제공할 수 있습니다.",
+    "zh": "Beosin專注於區塊鏈生態系統的安全，他們的產品和服務非常棒。他們能夠為全球交易所、錢包和智能合約提供安全審計和防禦部署。"
+  },
+  "Protected Assets": {
+    "zh-cn": "已保护的资产",
+    "ko": "보호된 자산",
+    "zh": "已保護的資產"
+  },
+  "Please enter keyword": {
+    "zh-cn": "请输入关键字",
+    "ko": "키워드 입력",
+    "zh": "請輸入關鍵字"
+  },
+  "Please enter your password": {
+    "zh-cn": "请输入密码",
+    "ko": "비밀번호 입력",
+    "zh": "請輸入密碼"
+  },
+  "Please enter the code again": {
+    "zh-cn": "请再次输入密码",
+    "ko": "코드 다시 입력",
+    "zh": "請再次輸入密碼"
+  },
+  "The two passwords are inconsistent": {
+    "zh-cn": "两次密码不一致",
+    "ko": "두 비밀번호가 일치하지 않습니다",
+    "zh": "兩次密碼不一致"
+  },
+  "Please wait a moment": {
+    "zh-cn": "请稍等",
+    "ko": "잠시만 기다려 주세요",
+    "zh": "請稍等"
+  },
+  "send success!": {
+    "zh-cn": "发送成功",
+    "ko": "전송 성공!",
+    "zh": "發送成功"
+  },
+  "Please enter the report number": {
+    "zh-cn": "请输入报告编号",
+    "ko": "보고서 번호 입력",
+    "zh": "請輸入報告編號"
+  },
+  "Smart Contract Audit Report": {
+    "zh-cn": "智能合约审计报告",
+    "ko": "스마트 계약 감사 보고서",
+    "zh": "智能合約審計報告"
+  },
+  "Public Blockchain Audit Report": {
+    "zh-cn": "公链审计报告",
+    "ko": "공개 블록체인 감사 보고서",
+    "zh": "公鏈審計報告"
+  },
+  "Consortium Blockchain Audit Report": {
+    "zh-cn": "联盟链审计报告",
+    "ko": "컨소시엄 블록체인 감사 보고서",
+    "zh": "聯盟鏈審計報告"
+  },
+  "Web-end In-depth Risk Monitoring Report": {
+    "zh-cn": "网页端深度风险监控报告",
+    "ko": "웹 엔드 인-뎁스 위험 모니터링 보고서",
+    "zh": "網頁端深度風險監控報告"
+  },
+  "Mobile Risk Monitoring Report": {
+    "zh-cn": "移动端风险监控报告",
+    "ko": "모바일 위험 모니터링 보고서",
+    "zh": "移動端風險監控報告"
+  },
+  "private": {
+    "zh-cn": "私有",
+    "ko": "비공개",
+    "zh": "私有"
+  },
+  "public": {
+    "zh-cn": "公开",
+    "ko": "공개",
+    "zh": "公開"
+  },
+  "Audit Report Preparation": {
+    "zh-cn": "审计报告准备",
+    "ko": "감사 보고서 작성",
+    "zh": "審計報告準備"
+  },
+  "Report Name": {
+    "zh-cn": "报名名称",
+    "ko": "보고서 이름",
+    "zh": "報名名稱"
+  },
+  "Report Type": {
+    "zh-cn": "报告类型",
+    "ko": "보고서 유형",
+    "zh": "報告類型"
+  },
+  "Upload Time": {
+    "zh-cn": "上传时间",
+    "ko": "업로드 시간",
+    "zh": "上傳時間"
+  },
+  "Permission Setting": {
+    "zh-cn": "许可设置",
+    "ko": "권한 설정",
+    "zh": "許可設置"
+  },
+  "Certificate": {
+    "zh-cn": "证明",
+    "ko": "인증서",
+    "zh": "證明"
+  },
+  "Action": {
+    "zh-cn": "行动",
+    "ko": "동작",
+    "zh": "行動"
+  },
+  "One click installation, instant protection!": {
+    "zh-cn": "一键下载，立即保护！",
+    "ko": "원 클릭 설치, 즉시 보호!",
+    "zh": "一鍵下載，立即保護！"
+  },
+  "Beosin is a leading global blockchain security company co-founded by several professors from world-renowned universities. We provide integrated blockchain security services and products to serve 1 million+ users in the global blockchain ecosystem.": {
+    "zh-cn": "Beosin是由多位世界知名大学教授共同创立的全球领先的区块链安全公司。我们提供综合的区块链安全服务和产品，服务全球区块链生态系统中100+万用户。",
+    "ko": "Beosin은 세계적으로 유명한 대학 교수들이 공동 창업한 선도적인 블록체인 보안 회사입니다. 우리는 통합된 블록체인 보안 서비스와 제품을 제공하여 전 세계 100만 명 이상의 사용자를 섬기고 있습니다.",
+    "zh": "Beosin是由多位世界知名大學教授共同創立的全球領先的區塊鏈安全公司。我們提供綜合的區塊鏈安全服務和產品，服務全球區塊鏈生態系統中100+萬用戶。"
+  },
+  "KYT-For AML/CFT Compliance": {
+    "zh-cn": "KYT - 为反洗钱/打击恐怖主义融资合规",
+    "ko": "AML/CFT 준수를 위한 KYT",
+    "zh": "KYT - 為反洗錢/打擊恐怖主義融資合規"
+  },
+  "Supported blockchain platforms": {
+    "zh-cn": "支持的链平台",
+    "ko": "AML/CFT 준수를 위한 KYT",
+    "zh": "支持的鏈平臺"
+  },
+  "Beosin KYT provides real-time monitoring and assessment of blockchain transactions, identify risk transactions/addresses, send alerts to clients in time, and meet the regulatory policies of the Virtual Asset Service Providers(VASPs).": {
+    "zh-cn": "Beosin KYT提供对区块链交易实时监控和评估服务，识别风险交易/地址，及时向客户发送预警，满足虚拟资产服务提供商的监管政策。",
+    "ko": "Beosin KYT는 블록체인 거래의 실시간 모니터링과 평가를 제공하며, 위험한 거래/주소를 식별하고 시간에 따라 클라이언트에게 경고를 보내며, 가상 자산 서비스 제공자(VASPs)의 규제 정책을 준수합니다.",
+    "zh": "Beosin KYT提供對區塊鏈交易即時監控和評估服務，識別風險交易/地址，及時向客戶發送預警，滿足虛擬資產服務提供商的監管政策。"
+  },
+  "Verification as a Service": {},
+  "Beosin's VaaS, an automatic smart contract verification tool based on formal verification, can automatically discover known and unknown vulnerabilities and business logic issues in smart contracts and give professional repair suggestions.": {
+    "zh-cn": "Beosin验证即服务是一种基于形式化验证的智能合约自动验证工具，可以自动发现智能合约中已知和未知的漏洞和业务逻辑问题，并给出专业的修复建议。",
+    "ko": "Beosin의 VaaS는 형식 검증을 기반으로한 자동 스마트 계약 검증 도구로, 스마트 계약에서 알려진 및 알려지지 않은 취약점 및 비즈니스 로직 문제를 자동으로 감지하고 전문적인 수리 제안을 제공할 수 있습니다.",
+    "zh": "Beosin驗證即服務是一種基於形式化驗證的智能合約自動驗證工具，可以自動發現智能合約中已知和未知的漏洞和業務邏輯問題，並給出專業的修復建議。"
+  },
+  "VaaS Functions": {
+    "zh-cn": "验证即服务功能",
+    "ko": "VaaS 기능",
+    "zh": "驗證即服務功能"
+  },
+  "Our Advantages": {
+    "zh-cn": "我们的优势",
+    "ko": "우리의 장점",
+    "zh": "我們的優勢"
+  },
+  "Customers": {
+    "zh-cn": "客户",
+    "ko": "고객",
+    "zh": "客戶"
+  },
+  "Try Out": {
+    "zh-cn": "试验",
+    "ko": "시도해 보기",
+    "zh": "試驗"
+  },
+  "Please enter the report number/name": {
+    "zh-cn": "请输入报告编号/名字",
+    "ko": "보고서 번호/이름을 입력하세요.",
+    "zh": "請輸入報告編號/名字"
+  },
+  "Search": {
+    "zh-cn": "搜索",
+    "ko": "검색",
+    "zh": "搜索"
+  },
+  "All-in-One Crypto AML Compliance Solution": {
+    "zh-cn": "一站式加密货币反洗钱合规解决方案",
+    "ko": "올인원 암호화폐 AML 준수 솔루션",
+    "zh": "一站式加密貨幣反洗錢合規解決方案"
+  },
+  "Keep virtual asset service providers safe by adopting beosin crypto AML compliance solution.": {
+    "zh-cn": "通过使用Beosin加密资产反洗钱合规解决方案以保护虚拟资产服务提供商",
+    "ko": "Beosin 암호화폐 AML 준수 솔루션을 채택하여 가상 자산 서비스 제공자를 안전하게 유지하세요.",
+    "zh": "通過使用Beosin加密資產反洗錢合規解決方案以保護虛擬資產服務提供商"
+  },
+  "Beosin provides comprehensive crypto AML compliance solution(Includes KYT,KYC) that integrate into your crypto business properly to help you manage crypto risks and ensure you meet the global crypto asset compliance regulation from all aspects while Buliding framework, developing business, managing assets in crypto industry.": {
+    "zh-cn": "Beosin提供全面的加密资产反洗钱合规解决方案(包括KYT,KYC)，恰当地集成到您的加密资产业务中以帮助您管理加密资产风险，确保您在加密行业构建框架，开发业务，管理资产的同时，在各个方面满足全球加密资产合规要求和法规。",
+    "ko": "Beosin은 KYT, KYC를 포함한 종합적인 암호화폐 AML 준수 솔루션을 제공하여 암호화폐 비즈니스에 적절하게 통합하여 암호화폐 위험을 관리하고 전 세계 암호화폐 자산 준수 규정을 모든 측면에서 준수하면서 프레임워크 구축, 비즈니스 개발, 암호화폐 산업에서 자산을 관리할 수 있도록 도와줍니다.",
+    "zh": "Beosin提供全面的加密資產反洗錢合規解決方案(包括KYT,KYC)，恰當地集成到您的加密資產業務中以幫助您管理加密資產風險，確保您在加密行業構建框架，開發業務，管理資產的同時，在各個方面滿足全球加密資產合規要求和法規。"
+  },
+  "All-In-One Smart Contract Security Solution": {
+    "zh-cn": "一站式智能合约安全解决方案",
+    "ko": "올인원 스마트 계약 보안 솔루션",
+    "zh": "一站式智能合約安全解決方案"
+  },
+  "Smart contract is the core of your project - protect it with Beosin security solutions.": {
+    "zh-cn": "智能合约是项目的核心 - 使用Beosin安全解决方案保护它",
+    "ko": "스마트 계약은 귀하의 프로젝트의 핵심입니다 - Beosin 보안 솔루션으로 보호하세요.",
+    "zh": "智能合約是專案的核心 - 使用Beosin安全解決方案保護它"
+  },
+  "Products & Services we provide": {
+    "zh-cn": "我们提供的产品及服务",
+    "ko": "우리가 제공하는 제품 및 서비스",
+    "zh": "我們提供的產品及服務"
+  },
+  "Stolen address": {
+    "zh-cn": "被盗地址",
+    "ko": "도난 주소",
+    "zh": "被盜地址"
+  },
+  "Multiple items are allowed": {
+    "zh-cn": "允许多个物件",
+    "ko": "여러 항목이 허용됩니다.",
+    "zh": "允許多個物件"
+  },
+  "Stolen transaction hash": {
+    "zh-cn": "被盗交易哈希",
+    "ko": "도난 거래 해시",
+    "zh": "被盜交易哈希"
+  },
+  "Description": {
+    "zh-cn": "描述",
+    "ko": "설명",
+    "zh": "描述"
+  },
+  "To guide the discussion, please give us specific details": {
+    "zh-cn": "为了更有效地交流，请提供具体的细节",
+    "ko": "토론을 안내하기 위해 구체적인 세부 정보를 제공해 주세요.",
+    "zh": "為了更有效地交流，請提供具體的細節"
+  },
+  "Name": {
+    "zh-cn": "名字",
+    "ko": "이름",
+    "zh": "名字"
+  },
+  "Your name": {
+    "zh-cn": "您的名字",
+    "ko": "귀하의 이름",
+    "zh": "您的名字"
+  },
+  "Your Name": {
+    "zh-cn": "称呼",
+    "ko": "이름",
+    "zh": "稱呼"
+  },
+  "Email": {
+    "zh-cn": "邮箱",
+    "ko": "이메일",
+    "zh": "郵箱"
+  },
+  "Please enter the complete information": {
+    "zh-cn": "请输入完整的信息",
+    "ko": "완전한 정보를 입력하십시오.",
+    "zh": "請輸入完整的資訊"
+  },
+  "Please enter the content": {
+    "zh-cn": "请输入内容",
+    "ko": "내용을 입력하십시오",
+    "zh": "請輸入內容"
+  },
+  "Packet size limitation": {
+    "zh-cn": "数据包大小限制",
+    "ko": "패킷 크기 제한",
+    "zh": "數據包大小限制"
+  },
+  "Request a demo": {
+    "zh-cn": "请求一份样品",
+    "ko": "데모 요청",
+    "zh": "請求一份樣品"
+  },
+  "SMART CONTRACT AUDIT REPORT": {
+    "zh-cn": "智能合约审计报告",
+    "ko": "스마트 계약 감사 보고서",
+    "zh": "智能合約審計報告"
+  },
+  "Please Input": {
+    "zh-cn": "请输入",
+    "ko": "입력해 주세요",
+    "zh": "請輸入"
+  },
+  "Cooperation negotiation": {
+    "zh-cn": "合作协商",
+    "ko": "협력협상",
+    "zh": "合作協商"
+  },
+  "Sign an agreement": {
+    "zh-cn": "签订协议",
+    "ko": "계약서에 서명합니다",
+    "zh": "簽訂協議"
+  },
+  "Account and private key creation": {
+    "zh-cn": "创建账户和私钥",
+    "ko": "계정 및 개인 키 생성",
+    "zh": "創建帳戶和私鑰"
+  },
+  "Services": {
+    "zh-cn": "服务",
+    "ko": "서비스",
+    "zh": "服務"
+  },
+  "Transaction monitoring & alert for AML/CFT Compliance.": {
+    "zh-cn": "针对 AML/CFT 合规性的交易监控和预警",
+    "ko": "AML/CFT 준수를 위한 트랜잭션 모니터링 및 알림",
+    "zh": "針對 AML/CFT 合規性的交易監控和預警"
+  },
+  "An automatic smart contract verification tool based on formal verification.": {
+    "zh-cn": "基于形式化验证的自动智能合约验证工具",
+    "ko": "공식 검증을 기반으로 한 스마트 계약 자동 검증 도구",
+    "zh": "基於形式化驗證的自動智能合約驗證工具"
+  },
+  "Identifies if the website you are currently browsing is a phishing, scam, fake or other type.": {
+    "zh-cn": "识别您当前浏览的网站是否为网络钓鱼、诈骗、假冒或其他类型骗局",
+    "ko": "현재 검색 중인 웹 사이트가 피싱, 사기, 가짜 또는 기타 유형인지 식별합니다.",
+    "zh": "識別您當前流覽的網站是否為網路釣魚、詐騙、假冒或其他類型騙局"
+  },
+  "Official Website": {
+    "zh-cn": "官方网站",
+    "ko": "공식 웹사이트",
+    "zh": "官方網站"
+  },
+  "Work Email Address": {
+    "zh-cn": "工作邮箱地址",
+    "ko": "회사 이메일 주소",
+    "zh": "工作郵箱地址"
+  },
+  "Your Chat / Direct contact": {
+    "zh-cn": "联系方式",
+    "ko": "연락처",
+    "zh": "聯繫方式"
+  },
+  "Telegram, WeChat, WhatsApp, or any preferred method (please specify). You can put multiple.": {
+    "zh-cn": "Telegram、微信、WhatsApp 或任何您愿意的方式（请注明）。您可以填写多个",
+    "ko": "Telegram, WeChat, WhatsApp 또는 선호하는 방법(표시하십시오).여러 개 넣으셔도 돼요",
+    "zh": "Telegram、微信、WhatsApp 或任何您願意的方式（請注明）。您可以填寫多個"
+  },
+  "Smart Contracts Audited": {
+    "zh-cn": "审计的智能合约",
+    "ko": "스마트 계약 감사",
+    "zh": "審計的智能合約"
+  },
+  "Supported blockchain platforms": {
+    "zh-cn": "支持的区块链平台",
+    "ko": "지원되는 블록체인 플랫폼",
+    "zh": "支持的區塊鏈平臺"
+  },
+  "Browser Support": {
+    "zh-cn": "浏览器支持",
+    "ko": "브라우저 지원",
+    "zh": "流覽器支持"
+  },
+  "Beosin Alert is a browser extension for malicious website identification. It can protect your private keys and assets from being stolen by malicious websites. It identifies if the website you are currently browsing is a phishing, scam, fake or other type and pop up an pop-up box to alert you immediately.": {
+    "zh-cn": "Beosin Alert 是一款用于识别恶意网站的浏览器扩展。它可以保护您的私钥和资产不被恶意网站窃取。它会识别您当前浏览的网站是否为钓鱼网站、诈骗网站、假冒网站或其他类型的网站，并立即弹出弹框提醒您。",
+    "ko": "범신알림은 악성 웹사이트 식별을 위한 브라우저 확장입니다. 악성 웹 사이트에 의해 개인 키와 자산이 도용되는 것을 방지할 수 있습니다. 현재 검색 중인 웹 사이트가 피싱, 사기, 가짜 또는 기타 유형인지 식별하고 팝업 상자를 열어 즉시 경고합니다.",
+    "zh": "Beosin Alert 是一款用於識別惡意網站的流覽器擴展。它可以保護您的私鑰和資產不被惡意網站竊取。它會識別您當前流覽的網站是否為釣魚網站、詐騙網站、假冒網站或其他類型的網站，並立即彈出彈框提醒您。"
+  },
+  "More browsers will be opened in the future, so stay tuned": {
+    "zh-cn": "后续会开放更多浏览器，敬请期待",
+    "ko": "앞으로 더 많은 브라우저가 열릴 예정이므로 계속 시청하시기 바랍니다",
+    "zh": "後續會開放更多流覽器，敬請期待"
+  },
+  "Solutions": {
+    "zh-cn": "解决方案",
+    "ko": "해결방안",
+    "zh": "解決方案"
+  },
+  "Review the attack process, locat and fix vulnerabilities": {
+    "zh-cn": "回顾攻击流程，定位并修复漏洞",
+    "ko": "공격 프로세스 검토, 취약성 찾기 및 수정",
+    "zh": "回顧攻擊流程，定位並修復漏洞"
+  },
+  "For Huckleberry": {
+    "zh-cn": "对于Huckleberry",
+    "ko": "허클베리용",
+    "zh": "對於Huckleberry"
+  },
+  "For CrossYield-stake": {
+    "zh-cn": "对于 CrossYield 股权",
+    "ko": "CrossYield 지분",
+    "zh": "對於 CrossYield 股權"
+  },
+  "For NFT": {
+    "zh-cn": "对于NFT",
+    "ko": "NFT의 경우",
+    "zh": "對於NFT"
+  },
+  "Audit Categories": {
+    "zh-cn": "审计类别",
+    "ko": "감사 카테고리",
+    "zh": "審計類別"
+  },
+  "No.": {
+    "zh-cn": "编号",
+    "ko": "아니요.",
+    "zh": "編號"
+  },
+  "Audit Sub-items": {
+    "zh-cn": "审计子项目",
+    "ko": "감사 하위 항목",
+    "zh": "審計子項目"
+  },
+  "Language Coding Security": {
+    "zh-cn": "语言编码安全",
+    "ko": "언어 코딩 보안",
+    "zh": "語言編碼安全"
+  },
+  "Your email address": {
+    "zh-cn": "您的电子邮件地址",
+    "ko": "당신의 이메일 주소",
+    "zh": "您的電子郵件地址"
+  },
+  "Download": {
+    "zh-cn": "下载",
+    "ko": "다운로드.",
+    "zh": "下載"
+  },
+  "Web3.0 Classroom": {
+    "zh-cn": "Web3.0课堂",
+    "ko": "웹 3.0 클래스",
+    "zh": "Web3.0課堂"
+  },
+  "ABOUT US": {
+    "zh-cn": "关于我们",
+    "ko": "우리에 대해요",
+    "zh": "關於我們"
+  },
+  "Please enter keywords here": {
+    "zh-cn": "请在此输入关键词",
+    "ko": "여기에 키워드를 입력하십시오",
+    "zh": "請在此輸入關鍵字"
+  },
+  "Search for Audit Reports, resources, blogs here": {
+    "zh-cn": "在此搜索审计报告、资源和博客",
+    "ko": "여기에서 감사 보고서, 리소스, 블로그 검색",
+    "zh": "在此搜索審計報告、資源和博客"
+  },
+  "There is no result for the “{number}” you entered, please re-enter.": {
+    "zh-cn": "您输入的“{number}”没有结果，请重新输入。",
+    "ko": "입력하신 \"{number}\"에 대한 결과가 없습니다. 다시 입력하십시오.",
+    "zh": "您輸入的“{number}”沒有結果，請重新輸入。"
+  },
+  "login success!": {
+    "zh-cn": "登录成功！",
+    "ko": "로그인 성공!",
+    "zh": "登錄成功！"
+  },
+  "Beosin, always guard your blockchain security": {
+    "zh-cn": "Beosin，时刻守护您的区块链安全",
+    "ko": "버신, 항상 블록체인 보안 지켜주세요",
+    "zh": "Beosin，時刻守護您的區塊鏈安全"
+  },
+  "Download all": {
+    "zh-cn": "全部下载",
+    "ko": "모두 다운로드",
+    "zh": "全部下載"
+  },
+  "Language": {
+    "zh-cn": "语言",
+    "ko": "언어",
+    "zh": "語言"
+  },
+  "Please input the content you wish to consult, e.g. cooperation process, cooperation price, others...": {
+    "zh-cn": "请输入您想咨询的内容，如：合作流程、合作价格、其他...",
+    "ko": "상담하고자 하는 내용(예: 협력 프로세스, 협력 가격, 기타)을 입력하십시오...",
+    "zh": "請輸入您想諮詢的內容，如：合作流程、合作價格、其他..."
+  },
+  "Message": {
+    "zh-cn": "留言",
+    "ko": "메시지를 남기다",
+    "zh": "留言"
+  },
+  "Organization Type": {
+    "zh-cn": "公司类型",
+    "ko": "조직 유형",
+    "zh": "公司類型"
+  },
+  "Company Name": {
+    "zh-cn": "公司名称",
+    "ko": "회사 이름",
+    "zh": "公司名稱"
+  },
+  "Project Type": {
+    "zh-cn": "项目类型",
+    "ko": "프로젝트 유형",
+    "zh": "專案類型"
+  },
+  "Phone Number": {
+    "zh-cn": "电话号码",
+    "ko": "전화 번호",
+    "zh": "電話號碼"
+  },
+  "Consensus security": {
+    "zh-cn": "共识安全",
+    "ko": "합의 보안",
+    "zh": "共識安全"
+  },
+  "Beosin Channel Verification": {
+    "zh-cn": "Beosin官方渠道验证",
+    "ko": "채널 검증",
+    "zh": "Beosin官方管道驗證"
+  },
+  "Verify if a domain, email, telegram, or phone number is from the Beosin official channel by entering it in the search box.": {
+    "zh-cn": "在搜索框中输入域名、电子邮件、电报或电话号码，验证其是否来自Beosin官方渠道。",
+    "ko": "도메인, 이메일, 전보, 전화번호가 범신 공식 채널에서 온 것인지 검색창에 입력하여 확인합니다.",
+    "zh": "在搜索框中輸入功能變數名稱、電子郵件、電報或電話號碼，驗證其是否來自Beosin官方管道。"
+  },
+  "Please make sure you are visiting": {
+    "zh-cn": "请确认您正在访问",
+    "ko": "액세스 중인지 확인하십시오",
+    "zh": "請確保您正在訪問"
+  },
+  "Enter the certificate number to validate the official training certificate issued by Beosin.": {
+    "zh-cn": "输入证书编号，验证Beosin颁发的官方培训证书。",
+    "ko": "인증서 번호를 입력하여 Beosin에서 발급한 정식 교육 인증서를 확인합니다.",
+    "zh": "輸入證書編號以驗證Beosin頒發的正式培訓證書。"
+  },
+  "Verify Beosin organization membership by entering email, telegram id, phone number.": {
+    "zh-cn": "通过输入电子邮件、电报 ID、电话号码来验证 Beosin 组织成员资格。",
+    "ko": "이메일, 전신 id 및 전화번호를 입력하여 Beosin 조직의 구성원 자격을 검증합니다.",
+    "zh": "通過輸入電子郵件、電報id和電話號碼驗證Beosin組織的成員資格。"
+  },
+  "Beosin Official Channel": {
+    "zh-cn": "Beosin官方渠道验证",
+    "ko": "Beosin 채널 검증",
+    "zh": "Beosin通道驗證"
+  },
+  "No Such Person": {
+    "zh-cn": "查无此人",
+    "ko": "그런 사람 없음",
+    "zh": "查無此人"
+  },
+  "DO NOT share your private information and password to anyone!": {
+    "zh-cn": "不要将你的私人信息和密码告诉任何人!",
+    "ko": "개인 정보와 암호를 다른 사람에게 공유하지 마십시오!",
+    "zh": "不要將你的私人資訊和密碼告訴任何人!"
+  },
+  "DO NOT send any crypto assets/money to anyone claiming to be from the Beosin team!": {
+    "zh-cn": "不要向任何自称来自Beosin团队的人发送任何加密资产/金钱!",
+    "ko": "버신 팀의 암호화 자산/돈을 자신이 버신 팀이라고 주장하는 사람에게 보내지 마십시오!",
+    "zh": "不要向任何自稱來自Beosin團隊的人發送任何加密資產/金錢!"
+  },
+  "Got it": {
+    "zh-cn": "确认",
+    "ko": "알겠습니다",
+    "zh": "確定"
+  },
+  "Requirement": {
+    "zh-cn": "需求",
+    "ko": "필요",
+    "zh": "需求"
+  },
+  "All": {
+    "zh-cn": "全部",
+    "ko": "모두",
+    "zh": "全部"
+  },
+  "Please enter Stolen transaction hash": {
+    "zh-cn": "请输入被盗交易哈希",
+    "ko": "도난당한 거래 해시를 입력하세요",
+    "zh": "請輸入被盜交易哈希"
+  },
+  "The verification code must be filled": {
+    "zh-cn": "验证码必须填写",
+    "ko": "확인 코드를 입력해야 합니다",
+    "zh": "驗證碼必須填寫"
+  },
+  "Wrong Captcha": {
+    "zh-cn": "验证码错误",
+    "ko": "인증 번호가 틀렸다",
+    "zh": "驗證碼錯誤"
+  },
+  "Verification passed": {
+    "zh-cn": "验证成功",
+    "ko": "인증 통과",
+    "zh": "驗證通過"
+  },
+  "Verification Failed": {
+    "zh-cn": "验证失败",
+    "ko": "인증 실패",
+    "zh": "驗證失敗"
+  },
+  "The result is a certificate issued by beosin.": {
+    "zh-cn": "这是由 Beosin 发放的证书。",
+    "ko": "그 결과 베오신이 증서를 발급했다",
+    "zh": "這是由 Beosin 發放的證書。"
+  },
+  "This result is a member of beosin.": {
+    "zh-cn": "这个结果是 Beosin 的成员。",
+    "ko": "이 결과는 beosin의 한 멤버입니다.",
+    "zh": "這個結果是 Beosin 的成員。"
+  },
+  "You have entered something incorrectly.": {
+    "zh-cn": "您输入了错误的内容。",
+    "ko": "입력한 내용이 정확하지 않습니다.",
+    "zh": "您輸入的內容不正確。"
+  },
+  "Or the target of your query is not related to beosin.": {
+    "zh-cn": "或者您查询的目标与 Beosin 无关。",
+    "ko": "또는 쿼리의 대상이 beosin과 관련이 없습니다.",
+    "zh": "或者您査詢的目標與beosin無關。"
+  },
+  "Web3 Security and Data Analytics Platform": {
+    "zh-cn": "Web3安全和数据分析平台",
+    "ko": "Web3 보안 및 데이터 분석 플랫폼",
+    "zh": "Web3安全和數據分析平臺"
+  },
+  "Provide the most decision-valuable data to VASPs, VCs, and project teams, helping customers better understand Web3 business opportunities and potential risks.": {
+    "zh-cn": "为VASP、VC、项目方提供最具决策价值的数据，帮助客户更好地洞见WEB3商业机遇与潜在风险。",
+    "ko": "VASP, VC 및 프로젝트 팀에 가장 의사 결정 가치 있는 데이터를 제공하여 고객이 Web3 비즈니스 기회와 잠재적 위험을 더 잘 이해하도록 지원합니다.",
+    "zh": "為VASP、VC、項目方提供最具決策價值的數據，幫助客戶更好地洞見WEB3商業機遇與潛在風險。"
+  },
+  "Security": {
+    "zh-cn": "安全",
+    "ko": "보안",
+    "zh": "安全"
+  },
+  "Protect your users from fraud and threat in Web3": {
+    "zh-cn": "保护您的用户免受 Web3 中的欺诈和威胁",
+    "ko": "Web3에서 사용자를 사기와 위협으로부터 보호합니다.",
+    "zh": "保護您的用戶免受 Web3 中的欺詐和威脅"
+  },
+  "Black address screening": {
+    "zh-cn": "黑地址筛查",
+    "ko": "악성 주소 스크리닝",
+    "zh": "黑地址篩查"
+  },
+  "Make your customers' transactions more secure through screening": {
+    "zh-cn": "通过筛查，让您的客户交易更安全",
+    "ko": "스크리닝을 통해 고객의 거래를 보다 안전하게 만듭니다.",
+    "zh": "通過篩查，讓您的客戶交易更安全"
+  },
+  "Phishing site detection": {
+    "zh-cn": "钓鱼网站检测",
+    "ko": "피싱 사이트 탐지",
+    "zh": "釣魚網站檢測"
+  },
+  "Prevent your customers from phishing sites": {
+    "zh-cn": "保护您的客户免受钓鱼网站欺诈风险",
+    "ko": "피싱 사이트로부터 고객을 보호합니다.",
+    "zh": "保護您的客戶免受釣魚網站欺詐風險"
+  },
+  "Smart Contract Security Detection": {
+    "zh-cn": "合约代码安全检测",
+    "ko": "스마트 계약 코드 보안 검사",
+    "zh": "合約代碼安全檢測"
+  },
+  "One-Click detection of whether on-chain projects are reliable and code is secure": {
+    "zh-cn": "链上项目是否靠谱，代码安全一键检测",
+    "ko": "한 번의 클릭으로 온체인 프로젝트가 안전하며 코드가 안전한지 검사합니다.",
+    "zh": "鏈上項目是否靠譜，代碼安全一鍵檢測"
+  },
+  "Risk tags updated in real time": {
+    "zh-cn": "风险标签实时更新",
+    "ko": "실시간으로 업데이트되는 리스크 태그",
+    "zh": "風險標簽實時更新"
+  },
+  "AI + manual review ensures accuracy of tags": {
+    "zh-cn": "AI+人工核实双重保障标签准确性",
+    "ko": "AI + 수동 검토를 통해 태그의 정확성을 보장합니다.",
+    "zh": "AI+人工核實雙重保障標簽準確性"
+  },
+  "World's most powerful automated contract code detection tools": {
+    "zh-cn": "全球最强的合约代码自动检测工具",
+    "ko": "세계에서 가장 강력한 자동 계약 코드 검색 도구",
+    "zh": "全球最強的合約代碼自動檢測工具"
+  },
+  "Industry-leading AI + formal verification capabilities": {
+    "zh-cn": "行业领先的AI+形式化验证能力",
+    "ko": "산업 선도적인 AI + 형식 검증 기능",
+    "zh": "行業領先的AI+形式化驗證能力"
+  },
+  "Investment": {
+    "zh-cn": "投资",
+    "ko": "투자",
+    "zh": "投資"
+  },
+  "First-Hand intelligence about projects you follow, such as financing, community, business relations, etc.": {
+    "zh-cn": "查询和推送您关注项目的投融资、社群、商业关系等一手情报",
+    "ko": "팔로우하는 프로젝트에 대한 투자, 커뮤니티, 비즈니스 관계 등과 같은 최신 정보를 쿼리 및 전송합니다.",
+    "zh": "查詢和推送您關注項目的投融資、社群、商業關係等一手情報"
+  },
+  "Basic Project Information": {
+    "zh-cn": "项目基础信息",
+    "ko": "기본 프로젝트 정보",
+    "zh": "項目基礎信息"
+  },
+  "Provide market cap, project tokens, token prices, holdings analysis, liquidity analysis, trading volume analysis and other basic information": {
+    "zh-cn": "提供项目市值、项目代币、代币价格、持仓分析、流动性分析、交易量分析等基础信息",
+    "ko": "시가총액, 프로젝트 토큰, 토큰 가격, 보유 분석, 유동성 분석, 거래량 분석 등 기본 정보를 제공합니다.",
+    "zh": "提供項目市值、項目代幣、代幣價格、持倉分析、流動性分析、交易量分析等基礎信息"
+  },
+  "Project Intelligence": {
+    "zh-cn": "项目情报",
+    "ko": "프로젝트 지능",
+    "zh": "項目情報"
+  },
+  "Provide project financing, team background, security audit reports, project correlations, open source security news and other data": {
+    "zh-cn": "提供项目的融资情况、团队背景、安全审计报告、项目关联关系、开源安全舆情等数据",
+    "ko": "프로젝트 투자, 팀 배경, 보안 감사 보고서, 프로젝트 상관 관계, 오픈 소스 보안 뉴스 등의 데이터를 제공합니다.",
+    "zh": "提供項目的融資情況、團隊背景、安全審計報告、項目關聯關係、開源安全輿情等數據"
+  },
+  "Project Security Monitoring": {
+    "zh-cn": "项目安全监控",
+    "ko": "프로젝트 보안 모니터링",
+    "zh": "項目安全監控"
+  },
+  "Send first-hand information to customers in real-time via TG, email, Webhook. Includes financing info, attacks, rug pulls, third party reports, partnerships, related policies, etc.": {
+    "zh-cn": "通过TG、邮件、Webhook的方式将项目的一手信息第一时间推送给客户。内容包括融资信息、Attrack、Rugpull、第三方报告、合作信息、相关政策等。",
+    "ko": "TG, 이메일, Webhook을 통해 실시간으로 고객에게 첫 손 정보를 전송합니다. 투자 정보, 공격, 러그 풀, 제3자 보고서, 파트너십, 관련 정책 등이 포함됩니다.",
+    "zh": "通過TG、郵件、Webhook的方式將項目的一手信息第一時間推送給客戶。内容包括融資信息、Attrack、Rugpull、第三方報告、合作信息、相關政策等。"
+  },
+  "Project Community Information": {
+    "zh-cn": "项目社群信息",
+    "ko": "프로젝트 커뮤니티 정보",
+    "zh": "項目社群信息"
+  },
+  "Provide data on official X (Twitter), Telegram, Discord, Github and other social media engagement": {
+    "zh-cn": "提供项目官方的Twitter、Telegram、Discord、Github等社交媒体活跃数据",
+    "ko": "공식 X(Twitter), Telegram, Discord, Github 및 기타 소셜 미디어 참여에 대한 데이터를 제공합니다.",
+    "zh": "提供項目官方的Twitter、Telegram、Discord、Github等社交媒體活躍數據"
+  },
+  "New projects updated daily to ensure timeliness": {
+    "zh-cn": "新项目按天更新，确保及时性",
+    "ko": "매일 업데이트되는 신규 프로젝트로 시시각각의 정보를 보장합니다.",
+    "zh": "新項目按天更新，確保及時性"
+  },
+  "Manual review by 100+member team to ensure accuracy": {
+    "zh-cn": "百人团队人工审核，确保准确性",
+    "ko": "100명의 팀 멤버에 의한 수동 검토로 정확성을 확보합니다.",
+    "zh": "百人團隊人工審核，確保準確性"
+  },
+  "All data tracked in real-time to ensure stability": {
+    "zh-cn": "所有数据实时跟踪，确保稳定性",
+    "ko": "안정성을 보장하기 위해 실시간으로 모든 데이터를 추적합니다.",
+    "zh": "所有數據實時跟蹤，確保穩定性"
+  },
+  "In-depth project investment research for faster decision making": {
+    "zh-cn": "深度的项目投研数据，投资决策快人一步",
+    "ko": "신속한 의사 결정을 위한 철저한 프로젝트 투자 연구를 수행합니다.",
+    "zh": "深度的項目投研數據，投資決策快人一步"
+  },
+  "Flexibly manage crypto asset risks and establish comprehensive compliance to meet global crypto asset regulations.": {
+    "zh-cn": "帮助您灵活管理加密资产风险，建立完善的合规业务，满足全球加密资产规格要求。",
+    "ko": "유연하게 가상 자산 위험을 관리하고 전 세계 가상 자산 규정을 충족시키기 위해 포괄적인 순응성을 확립하는 데 도움을 드립니다.",
+    "zh": "幫助您靈活管理加密資產風險，建立完整的合規業務，滿足全球加密資產規格要求。"
+  },
+  "Deposit risk assessment": {
+    "zh-cn": "充值/入金交易风险评估",
+    "ko": "입금 리스크 평가",
+    "zh": "充值/入金交易風險評估"
+  },
+  "Scientifically assess if deposit funds involve risks, avoid illegal money contamination": {
+    "zh-cn": "科学评估充值资金来源是否涉及风险，避免遭受非法资金污染",
+    "ko": "입금 자금이 위험에 노출되었는지를 과학적으로 평가하여 불법 자금 오염을 피합니다.",
+    "zh": "科學評估充值資金來源是否涉及風險，避免遭受非法資金污染"
+  },
+  "Withdrawal risk assessment": {
+    "zh-cn": "提款/出金交易风险评估",
+    "ko": "출금 리스크 평가",
+    "zh": "提款/出金交易風險評估"
+  },
+  "Scientifically assess if withdrawal funds involve risks, promptly adjust strategies to reduce reputation loss": {
+    "zh-cn": "科学评估提款资金去向是否涉及风险，及时调整风险策略以减小名誉损失",
+    "ko": "출금 자금이 위험에 노출되었는지를 과학적으로 평가하여 즉시 전략을 조정하여 평판 손실을 줄입니다.",
+    "zh": "科學評估提款資金去向是否涉及風險，及時調整風險策略以減小名譽損失"
+  },
+  "EOA address risk assessment": {
+    "zh-cn": "EOA地址风险评估",
+    "ko": "EOA 주소 리스크 평가",
+    "zh": "EOA地址風險評估"
+  },
+  "Fully assess address history to understand real identity and potential risks": {
+    "zh-cn": "对地址的历史交易行为进行充份评估，以了解其真实身份和可能的潜在风险",
+    "ko": "주소 기록을 완전히 평가하여 실제 신분과 잠재적인 위험을 이해합니다.",
+    "zh": "對地址的歷史交易行爲進行充分評估，以瞭解其真實身份和可能的潛在風險"
+  },
+  "Token risk assessment": {
+    "zh-cn": "代币风险评估",
+    "ko": "토큰 리스크 평가",
+    "zh": "代幣風險評估"
+  },
+  "Comprehensively evaluate risks across dimensions like contract code, business logic, trading restrictions, entity identity security, etc.": {
+    "zh-cn": "对合约代码、业务逻辑、交易限制、实体身份安全等多维度全面评估其风险",
+    "ko": "계약 코드, 비즈니스 로직, 거래 제한, 엔터티 신원 보안 등과 같은 차원을 포함하여 위험을 종합적으로 평가합니다.",
+    "zh": "對合約代碼、業務邏輯、交易限制、實體身份安全等多維度全面評估其風險"
+  },
+  "Malicious address query": {
+    "zh-cn": "恶意地址查询",
+    "ko": "악성 주소 쿼리",
+    "zh": "惡意地址查詢"
+  },
+  "Query address and entity risk tags like malicious addresses, sanctions, commercial blacklists, etc.": {
+    "zh-cn": "查询地址及实体的风险类标签,例如恶意地址、行政制裁、商业黑名单等",
+    "ko": "악성 주소, 제재, 상업용 블랙리스트 등과 같은 주소 및 엔터티 리스크 태그를 쿼리합니다.",
+    "zh": "查詢地址及實體的風險類標簽，例如惡意地址、行政制裁、商業黑名單等"
+  },
+  "VASP query": {
+    "zh-cn": "VASP查询",
+    "ko": "VASP 쿼리",
+    "zh": "VASP查詢"
+  },
+  "Query address and entity VASP tags to better execute travel rules.": {
+    "zh-cn": "查询地址及实体的VASP标签，帮助您更好地执行旅行规则",
+    "ko": "이동 규칙을 더 잘 실행하기 위해 주소 및 엔티티 VASP 태그를 쿼리합니다.",
+    "zh": "查詢地址及實體的VASP標簽，幫助您更好地執行旅行規則"
+  },
+  "100 million+ of VASP data for better travel rules execution": {
+    "zh-cn": "数亿VASP数据，让您更好执行履行规则",
+    "ko": "여행 규칙을 더 잘 실행하기 위한 1억 건 이상의 VASP 데이터",
+    "zh": "數億VASP數據，讓您更好執行履行規則"
+  },
+  "1 billion+ of labeled address data for understandable on-chain behavior": {
+    "zh-cn": "十亿+地址标签数据，让链上行为更显而易懂",
+    "ko": "이해 가능한 온체인 행동을 위한 10억 건 이상의 레이블이 지정된 주소 데이터",
+    "zh": "十億+地址標簽數據，讓鏈上行爲更顯而易懂"
+  },
+  "Auto cross-chain swap analysis to reveal hidden risks": {
+    "zh-cn": "兑币跨链自动分析，让隐藏的风险浮出水面",
+    "ko": "숨겨진 위험을 드러내기 위한 자동 크로스체인 스왑 분석",
+    "zh": "兌幣跨鏈自動分析，讓隱藏的風險浮出水面"
+  },
+  "Industry-leading full-token risk discovery models to eliminate blind spots": {
+    "zh-cn": "行业领先的全币种风险发现模型，让风险敞口不再有死角",
+    "ko": "눈에 띄는 곳을 제거하기 위한 산업 선도적인 풀코인 리스크 발견 모델",
+    "zh": "行業領先的全幣種風險發現模型，讓風險敞口不再有死角"
+  },
+  "Proprietary contract risk assessment models": {
+    "zh-cn": "独家合约风险评估模型",
+    "ko": "독점적인 계약 리스크 평가 모델",
+    "zh": "獨家合約風險評估模型"
+  },
+  "Flexible risk strategy templates to easily meet compliance policies worldwide": {
+    "zh-cn": "灵活多样的风险策略模板，让您的业务轻松满足世界各地的合规政策",
+    "ko": "전 세계적으로 쉽게 순응 정책을 충족시키기 위한 유연한 리스크 전략 템플릿",
+    "zh": "靈活多樣的風險政策模板，讓您的業務輕鬆滿足世界各地的合規政策"
+  },
+  "A plan that meets your needs": {
+    "zh-cn": "适合您需求的计划",
+    "ko": "귀하의 요구에 맞는 계획",
+    "zh": "適合您需求的計劃"
+  },
+  "Trusted by hundreds of industry leaders": {
+    "zh-cn": "受到数百家行业领导者的信赖",
+    "ko": "수백 개의 산업 리더에게 신뢰받는",
+    "zh": "受到數百家行業領導者的信賴"
+  },
+  "Free trial": {
+    "zh-cn": "免费试用",
+    "ko": "무료 체험",
+    "zh": "免費試用"
+  },
+  "View purchase plans": {
+    "zh-cn": "查看购买计划",
+    "ko": "구매 계획 보기",
+    "zh": "查看購買計劃"
+  },
+  "API documentation": {
+    "zh-cn": "API文档",
+    "ko": "API 문서",
+    "zh": "API文檔"
+  },
+  "Enterprise customization services": {
+    "zh-cn": "企业定制服务",
+    "ko": "기업 맞춤형 서비스",
+    "zh": "企業定制服務"
+  },
+  "Overage pricing": {
+    "zh-cn": "超过套餐次数价格",
+    "ko": "패키지 초과 비용",
+    "zh": "超過套餐次數價格"
+  },
+  "Request rate": {
+    "zh-cn": "调用速率",
+    "ko": "호출 속도",
+    "zh": "調用速率"
+  },
+  "Points": {
+    "zh-cn": "积分",
+    "ko": "포인트",
+    "zh": "積分"
+  },
+  "Total Points": {
+    "zh-cn": "总积分",
+    "ko": "총 포인트",
+    "zh": "總積分"
+  },
+  "Popular": {
+    "zh-cn": "热门",
+    "ko": "인기",
+    "zh": "熱門"
+  },
+  "Pay monthly": {
+    "zh-cn": "按月付费",
+    "ko": "월별 결제",
+    "zh": "按月付費"
+  },
+  "Pay annually": {
+    "zh-cn": "按年付费",
+    "ko": "연간 결제",
+    "zh": "按年付費"
+  },
+  "Plans": {
+    "zh-cn": "计划",
+    "ko": "플랜",
+    "zh": "計劃"
+  },
+  "Requests": {
+    "zh-cn": "次",
+    "ko": "요청",
+    "zh": "次"
+  },
+  "Requests/Second": {
+    "zh-cn": "次/秒",
+    "ko": "요청/초",
+    "zh": "次/秒"
+  },
+  "/Month": {
+    "zh-cn": "/月",
+    "ko": "/월",
+    "zh": "/月"
+  },
+  "/Year": {
+    "zh-cn": "/年",
+    "ko": "/년",
+    "zh": "/年"
+  },
+  "Apply for access": {
+    "zh-cn": "申请接入",
+    "ko": "접근 신청",
+    "zh": "申請接入"
+  },
+  "Standard version": {
+    "zh-cn": "标准版",
+    "ko": "표준 버전",
+    "zh": "標準版"
+  },
+  "Advanced version": {
+    "zh-cn": "高级版",
+    "ko": "고급 버전",
+    "zh": "高級版"
+  },
+  "Ultimate version": {
+    "zh-cn": "旗舰版",
+    "ko": "얼티밋 버전",
+    "zh": "旗艦版"
+  },
+  "Help customers better understand Web3 business opportunities and potential risks": {
+    "zh-cn": "帮助客户更好地洞见Wed3商业机遇与潜在风险",
+    "ko": "고객들이 Wed3 비즈니스 기회와 잠재적인 리스크를 더 잘 이해할 수 있도록 도움을 드립니다.",
+    "zh": "幫助客戶更好地洞見Wed3商業機遇與潛在風險"
+  },
+  "Partnered Crypto Exchanges": {
+    "zh-cn": "加密交易所",
+    "ko": "",
+    "zh": "加密交易所"
+  },
+  "Partnered Blockchain Ecosystems": {
+    "zh-cn": "区块链生态",
+    "ko": "",
+    "zh": "區塊鏈生態"
+  },
+  "Renowned Audited Projects": {
+    "zh-cn": "知名项目",
+    "ko": "",
+    "zh": "知名項目"
+  },
+  "Partnered Universities & Organizations": {
+    "zh-cn": "学院和机构",
+    "ko": "",
+    "zh": "學院和機構"
+  },
+  "RegTech Clients": {
+    "zh-cn": "合规客户",
+    "ko": "",
+    "zh": "合規客戶"
+  },
+  "Business Partners": {
+    "zh-cn": "业务伙伴",
+    "ko": "",
+    "zh": "業務夥伴"
+  }
+}

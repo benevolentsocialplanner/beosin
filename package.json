@@ -1,0 +1,40 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build && shx cp -r ssr dist",
+    "build:test": "nuxt build && shx cp -r ssr dist",
+    "build:prod": "nuxt build && shx cp -r ssr dist",
+    "dev": "nuxt dev --dotenv .env.development",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@element-plus/nuxt": "^1.1.0",
+    "@nuxtjs/color-mode": "^3.5.2",
+    "@nuxtjs/i18n": "^8.5.2",
+    "dayjs": "^1.11.13",
+    "element-plus": "^2.8.6",
+    "medium-zoom": "^1.1.0",
+    "nuxt": "^3.13.0",
+    "nuxt-svgo": "^4.0.6",
+    "swiper": "^11.1.14",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^0.6.1",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/robots": "^4.1.6",
+    "@nuxtjs/seo": "2.0.0-rc.21",
+    "@nuxtjs/sitemap": "^6.0.1",
+    "eslint": "^9.14.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.3.3",
+    "sass": "^1.78.0",
+    "shx": "^0.3.4",
+    "typescript-eslint": "^8.13.0"
+  }
+}

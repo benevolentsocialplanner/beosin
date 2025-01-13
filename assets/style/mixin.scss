@@ -1,0 +1,61 @@
+@mixin mobile() {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin labtop() {
+  @media screen and (max-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin grid-auto() {
+  display: grid;
+  @media screen and (max-width: 768px) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+// 文本溢出省略号
+@mixin text-ellipsis() {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+// 多行文本溢出省略号
+@mixin multi-ellipsis($line: 2) {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $line;
+  overflow: hidden;
+}
+
+// flex布局
+@mixin flex-center() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin flex-between() {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+// 定位居中
+@mixin absolute-center() {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+// 毛玻璃效果
+@mixin glass-effect() {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
