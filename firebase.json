@@ -1,0 +1,27 @@
+{
+  "hosting": {
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/api/**",
+        "destination": "https://beosin.com/api/**"
+      },
+      {
+        "source": "**",
+        "destination": "/200.html"
+      }
+    ],
+    "redirects": [
+      {
+        "source": "**",
+        "destination": "https://your-domain.com",
+        "type": 301
+      }
+    ]
+  }
+}

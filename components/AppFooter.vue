@@ -77,8 +77,19 @@
 
     <div class="footer-bottom">
       <div class="copyright">
-        <lang>©2024 by Beosin. All Rights Reserved.</lang>
+        <lang>©2025 by Beosin. All Rights Reserved.</lang>
       </div>
+      <div>
+  <!-- KVKK Button -->
+  <button @click="showKvkk = true" class="kvkk-link">
+    <lang>KVKK</lang>
+  </button>
+</div>
+
+<!-- KVKK Overlay -->
+<div v-if="showKvkk" class="kvkk-overlay">
+  <button @click="showKvkk = false" class="close-kvkk">X</button>
+</div>
       <div class="social-links">
         <template
           v-for="i in socialLinkData"

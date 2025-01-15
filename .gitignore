@@ -19,3 +19,5 @@ logs
 .idea
 
 # Local env files
+.firebase
+deploy

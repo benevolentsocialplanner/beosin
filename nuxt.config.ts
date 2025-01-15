@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      baseUrl: process.env.NUXT_BASE_URL
+      baseUrl: process.env.NUXT_BASE_URL || 'https://beosin.com'
     }
   },
   routeRules: {
@@ -31,9 +31,10 @@ export default defineNuxtConfig({
   },
   compatibilityDate: '2024-04-03',
   nitro: {
+    preset: 'firebase',
     output: {
-      publicDir: './dist/client',
-      dir: './dist'
+      publicDir: './deploy/client',
+      dir: './deploy'
     },
     devProxy: {
       '^/api': {
